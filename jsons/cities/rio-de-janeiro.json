@@ -1,0 +1,67 @@
+{
+  "image": "https://ingressorapido.github.io/images/cities/rio-de-janeiro.png",
+  "description": "A cidade fica ainda mais maravilhosa com esses novos espetáculos. E a Ingresso Rápido vai te ajudar a ficar por dentro de tudo. Divirta-se!",
+  "events":
+  [
+  	{
+  		"id": 49237,
+  		"name": "Bloody Weekend",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ"
+  	},
+  	{
+  		"id": 49066,
+  		"name": "Ney Matogrosso - Atento aos Sinais",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ"
+  	},
+  	{
+  		"id": 47963,
+  		"name": "Gota D'Água A Seco",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ"
+  	},
+  	{
+  		"id": 49331,
+  		"name": "Os Arrais",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ"
+  	},
+  	{
+  		"id": 47791,
+  		"name": "Maria Rita no Show Samba Maria",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ"
+  	},
+  	{
+  		"id": 48551,
+  		"name": "God Save the Queen",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ"
+  	},
+  	{
+  		"id": 48190,
+  		"name": "Roberta Sá",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ"
+  	},
+  	{
+  		"id": 48006,
+  		"name": "Abba Mamma Mia - The Tribute Show",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ"
+  	},
+  	{
+  		"id": 49004,
+  		"name": "Eu Amo Baile Funk",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ"
+  	},
+  	{
+  		"id": 49040,
+  		"name": "Leonardo Gonçalves",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ"
+  	}
+  ]
+}

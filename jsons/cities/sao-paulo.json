@@ -1,0 +1,67 @@
+{
+  "image": "https://ingressorapido.github.io/images/cities/sao-paulo.png",
+  "description": "A Ingresso Rápido vai te ajudar a ficar por dentro de tudo o que há de melhor em São Paulo. Confira e divirta-se!",
+  "events":
+    [
+    	{
+    		"id": 47540,
+    		"name": "We Will Rock You - O Musical do Queen",
+    		"city": "São Paulo",
+    		"state": "SP"
+    	},
+    	{
+    		"id": 49028,
+    		"name": "Aerosmith",
+    		"city": "São Paulo",
+    		"state": "SP"
+    	},
+    	{
+    		"id": 49125,
+    		"name": "Exposição Tim Burton",
+    		"city": "São Paulo",
+    		"state": "SP"
+    	},
+    	{
+    		"id": 48292,
+    		"name": "Histeria",
+    		"city": "São Paulo",
+    		"state": "SP"
+    	},
+    	{
+    		"id": 46321,
+    		"name": "Cinderella",
+    		"city": "São Paulo",
+    		"state": "SP"
+    	},
+    	{
+    		"id": 47426,
+    		"name": "A Galinha Pintadinha em Ovo de Novo",
+    		"city": "São Paulo",
+    		"state": "SP"
+    	},
+    	{
+    		"id": 49229,
+    		"name": "Bloody Weekend",
+    		"city": "São Paulo",
+    		"state": "SP"
+    	},
+    	{
+    		"id": 48588,
+    		"name": "God Save the Queen",
+    		"city": "São Paulo",
+    		"state": "SP"
+    	},
+    	{
+    		"id": 49135,
+    		"name": "Meu Passado Não Me Condena",
+    		"city": "São Paulo",
+    		"state": "SP"
+    	},
+    	{
+    		"id": 45955,
+    		"name": "Um Bonde Chamado Desejo",
+    		"city": "São Paulo",
+    		"state": "SP"
+    	}
+    ]
+}
