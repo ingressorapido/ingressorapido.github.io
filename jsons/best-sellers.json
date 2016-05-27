@@ -28,10 +28,10 @@
   		"state": "RJ"
   	},
   	{
-  		"id": 49165,
-  		"name": "Cássia Eller - O Musical",
-  		"city": "Rio Branco",
-  		"state": "AC"
+  		"id": 49391,
+  		"name": "The King is Back",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ"
   	},
   	{
   		"id": 48987,
@@ -40,10 +40,10 @@
   		"state": "SP"
   	},
   	{
-  		"id": 49125,
-  		"name": "Exposição Tim Burton",
-  		"city": "São Paulo",
-  		"state": "SP"
+  		"id": 47791,
+  		"name": "Maria Rita no Show Samba Maria",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ"
   	},
   	{
   		"id": 48588,
@@ -58,10 +58,10 @@
   		"state": "RJ"
   	},
   	{
-  		"id": 47438,
+  		"id": 47727,
   		"name": "Disney On Ice",
-  		"city": "Fortaleza",
-  		"state": "CE"
+  		"city": "Brasília",
+  		"state": "DF"
   	}
   ]
 }
