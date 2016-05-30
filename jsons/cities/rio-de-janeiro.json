@@ -5,8 +5,8 @@
   "events":
   [
   	{
-  		"id": 49237,
-  		"name": "Bloody Weekend",
+  		"id": 49769,
+  		"name": "Chá da Veveta",
   		"city": "Rio de Janeiro",
   		"state": "RJ"
   	},
@@ -17,50 +17,50 @@
   		"state": "RJ"
   	},
   	{
-  		"id": 47963,
-  		"name": "Gota D'Água A Seco",
+  		"id": 49735,
+  		"name": "Henrique e Juliano ao Vivo",
   		"city": "Rio de Janeiro",
   		"state": "RJ"
   	},
   	{
-  		"id": 49331,
-  		"name": "Os Arrais",
+  		"id": 49559,
+  		"name": "Emicida",
   		"city": "Rio de Janeiro",
   		"state": "RJ"
   	},
   	{
-  		"id": 47791,
-  		"name": "Maria Rita no Show Samba Maria",
+  		"id": 49439,
+  		"name": "Matanza Fest",
   		"city": "Rio de Janeiro",
   		"state": "RJ"
   	},
   	{
-  		"id": 48551,
-  		"name": "God Save the Queen",
+  		"id": 49056,
+  		"name": "Pepeu Gomes - "Pepeu 50 a mais de Mil Tour",
   		"city": "Rio de Janeiro",
   		"state": "RJ"
   	},
   	{
-  		"id": 48190,
-  		"name": "Roberta Sá",
+  		"id": 48607,
+  		"name": "Gabriel Elias",
   		"city": "Rio de Janeiro",
   		"state": "RJ"
   	},
   	{
-  		"id": 48006,
-  		"name": "Abba Mamma Mia - The Tribute Show",
+  		"id": 49502,
+  		"name": "Hypnotic Brass Ensemble",
   		"city": "Rio de Janeiro",
   		"state": "RJ"
   	},
   	{
-  		"id": 49004,
-  		"name": "Eu Amo Baile Funk",
+  		"id": 49255,
+  		"name": "Kamelot - "Haven",
   		"city": "Rio de Janeiro",
   		"state": "RJ"
   	},
   	{
-  		"id": 49040,
-  		"name": "Leonardo Gonçalves",
+  		"id": 47693,
+  		"name": "Gota D'Água [A Seco]",
   		"city": "Rio de Janeiro",
   		"state": "RJ"
   	}
