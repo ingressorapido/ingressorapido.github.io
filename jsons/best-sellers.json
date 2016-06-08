@@ -4,64 +4,64 @@
   "events":
   [
   	{
+  		"id": 49988,
+  		"name": "Samsung Best of Blues",
+  		"city": "São Paulo",
+  		"state": "SP"
+  	},
+  	{
   		"id": 47540,
   		"name": "We Will Rock You - O Musical do Queen",
   		"city": "São Paulo",
   		"state": "SP"
   	},
   	{
-  		"id": 49028,
-  		"name": "Aerosmith",
+  		"id": 48292,
+  		"name": "Histeria",
   		"city": "São Paulo",
   		"state": "SP"
   	},
   	{
-  		"id": 46321,
-  		"name": "Cinderella",
+  		"id": 49989,
+  		"name": "Mallu Magalhães",
   		"city": "São Paulo",
   		"state": "SP"
   	},
   	{
-  		"id": 49005,
-  		"name": "Thaeme e Thiago ao vivo",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ"
-  	},
-  	{
-  		"id": 49391,
-  		"name": "The King is Back",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ"
-  	},
-  	{
-  		"id": 48987,
-  		"name": "Augusto Cury",
+  		"id": 48360,
+  		"name": "Thiago Ventura em Isso é Tudo Que Eu Tenho",
   		"city": "São Paulo",
   		"state": "SP"
   	},
   	{
-  		"id": 47791,
-  		"name": "Maria Rita no Show Samba Maria",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ"
-  	},
-  	{
-  		"id": 48588,
-  		"name": "God Save The Queen",
+  		"id": 49022,
+  		"name": "Exposição 'A Turma do Chaves'",
   		"city": "São Paulo",
   		"state": "SP"
   	},
   	{
-  		"id": 49331,
-  		"name": "Os Arrais",
+  		"id": 47402,
+  		"name": "Elza Soares",
   		"city": "Rio de Janeiro",
   		"state": "RJ"
   	},
   	{
-  		"id": 47727,
-  		"name": "Disney On Ice",
-  		"city": "Brasília",
-  		"state": "DF"
+  		"id": 45978,
+  		"name": "Maurício Meirelles em Perdendo Amigos",
+  		"city": "São Paulo",
+  		"state": "SP"
+  	},
+  	{
+  		"id": 49608,
+  		"name": "Elis, a Musical",
+  		"city": "João Pessoa",
+  		"state": "PB"
+  	},
+  	{
+  		"id": 48631,
+  		"name": "Boca Rosa a Peça",
+  		"city": "São Paulo",
+  		"state": "SP"
   	}
   ]
 }
