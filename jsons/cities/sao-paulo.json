@@ -2,67 +2,76 @@
   "title": "São Paulo",
   "photo": "https://ingressorapido.github.io/images/cities/sao-paulo.png",
   "description": "A Ingresso Rápido vai te ajudar a ficar por dentro de tudo o que há de melhor em São Paulo. Confira e divirta-se!",
-  "events":
-    [
-    	{
-    		"id": 47540,
-    		"name": "We Will Rock You - O Musical do Queen",
-    		"city": "São Paulo",
-    		"state": "SP"
-    	},
-    	{
-    		"id": 49988,
-    		"name": "Samsung Best of Blues",
-    		"city": "São Paulo",
-    		"state": "SP"
-    	},
-    	{
-    		"id": 48292,
-    		"name": "Histeria",
-    		"city": "São Paulo",
-    		"state": "SP"
-    	},
-    	{
-    		"id": 49135,
-    		"name": "Meu Passado Não Me Condena",
-    		"city": "São Paulo",
-    		"state": "SP"
-    	},
-    	{
-    		"id": 49989,
-    		"name": "Mallu Magalhães",
-    		"city": "São Paulo",
-    		"state": "SP"
-    	},
-    	{
-    		"id": 48680,
-    		"name": "Raimundo Fagner",
-    		"city": "São Paulo",
-    		"state": "SP"
-    	},
-    	{
-    		"id": 45955,
-    		"name": "Um Bonde Chamado Desejo",
-    		"city": "São Paulo",
-    		"state": "SP"
-    	},
-    	{
-    		"id": 45978,
-    		"name": "Maurício Meirelles em Perdendo Amigos",
-    		"city": "São Paulo",
-    		"state": "SP"
-    	},
-    	{
-    		"id": 48360,
-    		"name": "Thiago Ventura em Isso é Tudo Que Eu Tenho",
-    		"city": "São Paulo",
-    		"state": "SP"
-    	},
-    	{
-    		"id": 49022,
-    		"name": "Exposição 'A Turma do Chaves'",
-    		"city": "São Paulo",
-    		"state": "SP"
-    	}
-    ]
+  "events": [
+    {
+      "id": 47540,
+      "name": "We Will Rock You - O Musical do Queen",
+      "city": "São Paulo",
+      "state": "SP",
+      "category": "Teatro"
+    },
+    {
+      "id": 49988,
+      "name": "Samsung Best of Blues",
+      "city": "São Paulo",
+      "state": "SP",
+      "category": "Show"
+    },
+    {
+      "id": 48292,
+      "name": "Histeria",
+      "city": "São Paulo",
+      "state": "SP",
+      "category": "Teatro"
+    },
+    {
+      "id": 49135,
+      "name": "Meu Passado Não Me Condena",
+      "city": "São Paulo",
+      "state": "SP",
+      "category": "Teatro"
+    },
+    {
+      "id": 49989,
+      "name": "Mallu Magalhães",
+      "city": "São Paulo",
+      "state": "SP",
+      "category": "Show"
+    },
+    {
+      "id": 48680,
+      "name": "Raimundo Fagner",
+      "city": "São Paulo",
+      "state": "SP",
+      "category": null
+    },
+    {
+      "id": 45955,
+      "name": "Um Bonde Chamado Desejo",
+      "city": "São Paulo",
+      "state": "SP",
+      "category": "Teatro"
+    },
+    {
+      "id": 45978,
+      "name": "Maurício Meirelles em Perdendo Amigos",
+      "city": "São Paulo",
+      "state": "SP",
+      "category": "Teatro"
+    },
+    {
+      "id": 48360,
+      "name": "Thiago Ventura em Isso é Tudo Que Eu Tenho",
+      "city": "São Paulo",
+      "state": "SP",
+      "category": "Teatro"
+    },
+    {
+      "id": 49022,
+      "name": "Exposição 'A Turma do Chaves'",
+      "city": "São Paulo",
+      "state": "SP",
+      "category": "Especiais"
+    }
+  ]
 }
