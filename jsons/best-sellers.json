@@ -7,61 +7,71 @@
   		"id": 49988,
   		"name": "Samsung Best of Blues",
   		"city": "São Paulo",
-  		"state": "SP"
+  		"state": "SP",
+  		"category": "Show"
   	},
   	{
   		"id": 47540,
   		"name": "We Will Rock You - O Musical do Queen",
   		"city": "São Paulo",
-  		"state": "SP"
+  		"state": "SP",
+  		"category": "Teatro"
   	},
   	{
   		"id": 48292,
   		"name": "Histeria",
   		"city": "São Paulo",
-  		"state": "SP"
+  		"state": "SP",
+  		"category": "Teatro"
   	},
   	{
   		"id": 49989,
   		"name": "Mallu Magalhães",
   		"city": "São Paulo",
-  		"state": "SP"
+  		"state": "SP",
+  		"category": "Show"
   	},
   	{
   		"id": 48360,
   		"name": "Thiago Ventura em Isso é Tudo Que Eu Tenho",
   		"city": "São Paulo",
-  		"state": "SP"
+  		"state": "SP",
+  		"category": "Teatro"
   	},
   	{
   		"id": 49022,
   		"name": "Exposição 'A Turma do Chaves'",
   		"city": "São Paulo",
-  		"state": "SP"
+  		"state": "SP",
+  		"category": "Especiais"
   	},
   	{
   		"id": 47402,
   		"name": "Elza Soares",
   		"city": "Rio de Janeiro",
-  		"state": "RJ"
+  		"state": "RJ",
+  		"category": "Show"
   	},
   	{
   		"id": 45978,
   		"name": "Maurício Meirelles em Perdendo Amigos",
   		"city": "São Paulo",
-  		"state": "SP"
+  		"state": "SP",
+  		"category": "Teatro"
   	},
   	{
   		"id": 49608,
   		"name": "Elis, a Musical",
   		"city": "João Pessoa",
-  		"state": "PB"
+  		"state": "PB",
+  		"category": null
   	},
   	{
   		"id": 48631,
   		"name": "Boca Rosa a Peça",
   		"city": "São Paulo",
-  		"state": "SP"
+  		"state": "SP",
+  		"category": "Teatro"
   	}
   ]
 }
