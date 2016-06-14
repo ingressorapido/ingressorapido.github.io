@@ -9,70 +9,70 @@
   		"name": "Emicida",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
-  		"category": null
+  		"genre": null
   	},
   	{
   		"id": 47402,
   		"name": "Elza Soares",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
-  		"category": "Show"
+  		"genre": "Show"
   	},
   	{
   		"id": 50283,
   		"name": "Karina Buhr + Johnny Hooker",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
-  		"category": "Show"
+  		"genre": "Show"
   	},
   	{
   		"id": 49056,
   		"name": "Pepeu Gomes - 'Pepeu 50 a mais de Mil Tour'",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
-  		"category": "Show"
+  		"genre": "Show"
   	},
   	{
   		"id": 49558,
   		"name": "Metá Metá",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
-  		"category": null
+  		"genre": null
   	},
   	{
   		"id": 49068,
   		"name": "Ira!",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
-  		"category": "Show"
+  		"genre": "Show"
   	},
   	{
   		"id": 49701,
   		"name": "Edward Sharpe & The Magnetic Zeros + Courtney Barnett",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
-  		"category": "Show"
+  		"genre": "Show"
   	},
   	{
   		"id": 50218,
   		"name": "Salada das Frutas",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
-  		"category": "Show"
+  		"genre": "Show"
   	},
   	{
   		"id": 48470,
   		"name": "Braza",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
-  		"category": "Show"
+  		"genre": "Show"
   	},
   	{
   		"id": 50205,
   		"name": "Paulinho Gogó: no Gogó do Paulinho",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
-  		"category": "Teatro"
+  		"genre": "Teatro"
   	}
   ]
 }
