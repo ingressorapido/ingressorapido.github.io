@@ -11,13 +11,6 @@
       "genre": "Teatro"
     },
     {
-      "id": 49988,
-      "name": "Samsung Best of Blues",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Show"
-    },
-    {
       "id": 48292,
       "name": "Histeria",
       "city": "São Paulo",
@@ -30,20 +23,6 @@
       "city": "São Paulo",
       "state": "SP",
       "genre": "Teatro"
-    },
-    {
-      "id": 49989,
-      "name": "Mallu Magalhães",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Show"
-    },
-    {
-      "id": 48680,
-      "name": "Raimundo Fagner",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": null
     },
     {
       "id": 45955,
@@ -60,18 +39,39 @@
       "genre": "Teatro"
     },
     {
-      "id": 48360,
-      "name": "Thiago Ventura em Isso é Tudo Que Eu Tenho",
+      "id": 48228,
+      "name": "Whindersson Nunes",
       "city": "São Paulo",
       "state": "SP",
       "genre": "Teatro"
     },
     {
-      "id": 49022,
-      "name": "Exposição 'A Turma do Chaves'",
+      "id": 49568,
+      "name": "Russian State Ballet",
       "city": "São Paulo",
       "state": "SP",
-      "genre": "Especiais"
+      "genre": "Dança"
+    },
+    {
+      "id": 48198,
+      "name": "Contrações",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Teatro"
+    },
+    {
+      "id": 46924,
+      "name": "Cia. Barbixas apresenta: Improvável",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Teatro"
+    },
+    {
+      "id": 48360,
+      "name": "Thiago Ventura em Isso é Tudo que Eu Tenho",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Teatro"
     }
   ]
 }
