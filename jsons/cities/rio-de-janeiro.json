@@ -5,50 +5,8 @@
   "events":
   [
   	{
-  		"id": 49559,
-  		"name": "Emicida",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": null
-  	},
-  	{
-  		"id": 47402,
-  		"name": "Elza Soares",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
-  	},
-  	{
   		"id": 50283,
   		"name": "Karina Buhr + Johnny Hooker",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 49056,
-  		"name": "Pepeu Gomes - 'Pepeu 50 a mais de Mil Tour'",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 49558,
-  		"name": "Metá Metá",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": null
-  	},
-  	{
-  		"id": 49068,
-  		"name": "Ira!",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 49701,
-  		"name": "Edward Sharpe & The Magnetic Zeros + Courtney Barnett",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Show"
@@ -61,8 +19,50 @@
   		"genre": "Show"
   	},
   	{
-  		"id": 48470,
-  		"name": "Braza",
+  		"id": 47402,
+  		"name": "Elza Soares",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Show"
+  	},
+  	{
+  		"id": 49068,
+  		"name": "Ira!",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Show"
+  	},
+  	{
+  		"id": 50286,
+  		"name": "Geraldo Azevedo - Arraiá do Circo",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Show"
+  	},
+  	{
+  		"id": 50408,
+  		"name": "Lenine - Carbono",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Show"
+  	},
+  	{
+  		"id": 49701,
+  		"name": "Edward Sharpe & The Magnetic Zeros + Courtney Barnett",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Show"
+  	},
+  	{
+  		"id": 50285,
+  		"name": "Titãs - Pop Rock Brasil",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Show"
+  	},
+  	{
+  		"id": 49439,
+  		"name": "Matanza Fest",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Show"
