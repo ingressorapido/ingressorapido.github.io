@@ -4,13 +4,6 @@
   "events":
   [
   	{
-  		"id": 49988,
-  		"name": "Samsung Best of Blues",
-  		"city": "São Paulo",
-  		"state": "SP",
-  		"genre": "Show"
-  	},
-  	{
   		"id": 47540,
   		"name": "We Will Rock You - O Musical do Queen",
   		"city": "São Paulo",
@@ -25,25 +18,46 @@
   		"genre": "Teatro"
   	},
   	{
-  		"id": 49989,
-  		"name": "Mallu Magalhães",
-  		"city": "São Paulo",
-  		"state": "SP",
-  		"genre": "Show"
+  		"id": 50568,
+  		"name": "Turnê 27º Prêmio da Música Brasileira - Goiânia",
+  		"city": "Goiânia",
+  		"state": "GO",
+  		"genre": "Especiais"
   	},
   	{
-  		"id": 48360,
-  		"name": "Thiago Ventura em Isso é Tudo Que Eu Tenho",
+  		"id": 49135,
+  		"name": "Meu passado não me condena",
   		"city": "São Paulo",
   		"state": "SP",
   		"genre": "Teatro"
   	},
   	{
-  		"id": 49022,
-  		"name": "Exposição 'A Turma do Chaves'",
+  		"id": 45978,
+  		"name": "Mauricio Meirelles em Perdendo Amigos",
   		"city": "São Paulo",
   		"state": "SP",
-  		"genre": "Especiais"
+  		"genre": "Teatro"
+  	},
+  	{
+  		"id": 48360,
+  		"name": "Thiago Ventura em Isso é Tudo que eu Tenho"",
+  		"city": "São Paulo",
+  		"state": "SP",
+  		"genre": "Teatro"
+  	},
+  	{
+  		"id": 50283,
+  		"name": "Karina Buhr + Johnny Hooker",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Show"
+  	},
+  	{
+  		"id": 50294,
+  		"name": "O Homem Primitivo",
+  		"city": "São Paulo",
+  		"state": "SP",
+  		"genre": "Teatro"
   	},
   	{
   		"id": 47402,
@@ -53,25 +67,11 @@
   		"genre": "Show"
   	},
   	{
-  		"id": 45978,
-  		"name": "Maurício Meirelles em Perdendo Amigos",
+  		"id": 49988,
+  		"name": "Samsung Best of Blues",
   		"city": "São Paulo",
   		"state": "SP",
-  		"genre": "Teatro"
-  	},
-  	{
-  		"id": 49608,
-  		"name": "Elis, a Musical",
-  		"city": "João Pessoa",
-  		"state": "PB",
-  		"genre": null
-  	},
-  	{
-  		"id": 48631,
-  		"name": "Boca Rosa a Peça",
-  		"city": "São Paulo",
-  		"state": "SP",
-  		"genre": "Teatro"
+  		"genre": "Show"
   	}
   ]
 }
