@@ -4,6 +4,13 @@
   "description": "A cidade fica ainda mais maravilhosa com esses novos espetáculos. E a Ingresso Rápido vai te ajudar a ficar por dentro de tudo. Divirta-se!",
   "events":
   [
+    {
+  		"id": 47402,
+  		"name": "Elza Soares",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Show"
+  	},
   	{
   		"id": 50283,
   		"name": "Karina Buhr + Johnny Hooker",
@@ -19,15 +26,8 @@
   		"genre": "Show"
   	},
   	{
-  		"id": 47402,
-  		"name": "Elza Soares",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 49068,
-  		"name": "Ira!",
+  		"id": 50285,
+  		"name": "Titãs - Pop Rock Brasil",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Show"
@@ -40,22 +40,15 @@
   		"genre": "Show"
   	},
   	{
-  		"id": 50408,
-  		"name": "Lenine - Carbono",
+  		"id": 49255,
+  		"name": "Kamelot - 'Haven'",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Show"
   	},
   	{
-  		"id": 49701,
-  		"name": "Edward Sharpe & The Magnetic Zeros + Courtney Barnett",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 50285,
-  		"name": "Titãs - Pop Rock Brasil",
+  		"id": 50613,
+  		"name": "Mariene de Castro",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Show"
@@ -68,11 +61,18 @@
   		"genre": "Show"
   	},
   	{
-  		"id": 50205,
-  		"name": "Paulinho Gogó: no Gogó do Paulinho",
+  		"id": 49918,
+  		"name": "Love Story, o Musical",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Teatro"
+  	},
+  	{
+  		"id": 49835,
+  		"name": "A Roda - Monarco e o Samba da Ouvidor",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Show"
   	}
   ]
 }
