@@ -4,14 +4,13 @@
   "description": "A Ingresso Rápido vai te ajudar a ficar por dentro de tudo o que há de melhor em São Paulo. Confira e divirta-se!",
   "events": [
     {
-      {
       "id": 50744,
       "name": "Mariah Carey & Convidado Especial - SP",
       "city": "São Paulo",
       "state": "SP",
       "genre": "Show"
     },
-      {
+     {
       "id": 47540,
       "name": "We Will Rock You - O Musical do Queen",
       "city": "São Paulo",
