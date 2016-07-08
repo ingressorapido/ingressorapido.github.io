@@ -4,6 +4,27 @@
   "events":
   [
   	{
+  		"id": 50744,
+  		"name": "Mariah Carey & Convidado Especial",
+  		"city": "São Paulo",
+  		"state": "SP",
+  		"genre": "Show"
+  	},
+  	{
+  		"id": 51150,
+  		"name": "Simple Plan",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Show"
+  	},
+  	{
+  		"id": 50924,
+  		"name": "Djavan - Vidas pra Contar",
+  		"city": "Salvador",
+  		"state": "BA",
+  		"genre": "Show"
+  	},
+  	{
   		"id": 47540,
   		"name": "We Will Rock You - O Musical do Queen",
   		"city": "São Paulo",
@@ -18,57 +39,36 @@
   		"genre": "Teatro"
   	},
   	{
-  		"id": 50568,
-  		"name": "Turnê 27º Prêmio da Música Brasileira - Goiânia",
-  		"city": "Goiânia",
-  		"state": "GO",
+  		"id": 49135,
+  		"name": "Meu Passado Não Me Condena",
+  		"city": "São Paulo",
+  		"state": "SP",
+  		"genre": "Teatro"
+  	},
+  	{
+  		"id": 51123,
+  		"name": "Beatlemania Experience - The Beatles Biography",
+  		"city": "São Paulo",
+  		"state": "SP",
   		"genre": "Especiais"
   	},
   	{
-  		"id": 49135,
-  		"name": "Meu passado não me condena",
+  		"id": 47426,
+  		"name": "A Galinha Pintadinha em Ovo de Novo",
   		"city": "São Paulo",
   		"state": "SP",
   		"genre": "Teatro"
   	},
   	{
-  		"id": 45978,
-  		"name": "Mauricio Meirelles em Perdendo Amigos",
-  		"city": "São Paulo",
-  		"state": "SP",
-  		"genre": "Teatro"
-  	},
-  	{
-  		"id": 48360,
-  		"name": "Thiago Ventura em Isso é Tudo que eu Tenho",
-  		"city": "São Paulo",
-  		"state": "SP",
-  		"genre": "Teatro"
-  	},
-  	{
-  		"id": 50283,
-  		"name": "Karina Buhr + Johnny Hooker",
+  		"id": 50285,
+  		"name": "Titãs - Pop Rock Brasil",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Show"
   	},
   	{
-  		"id": 50294,
-  		"name": "O Homem Primitivo",
-  		"city": "São Paulo",
-  		"state": "SP",
-  		"genre": "Teatro"
-  	},
-  	{
-  		"id": 47402,
-  		"name": "Elza Soares",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 49988,
-  		"name": "Samsung Best of Blues",
+  		"id": 50964,
+  		"name": "Maria Rita - Samba da Maria",
   		"city": "São Paulo",
   		"state": "SP",
   		"genre": "Show"
