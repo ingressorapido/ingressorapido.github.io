@@ -11,10 +11,10 @@
   		"genre": "Show"
   	},
   	{
-  		"id": 51150,
-  		"name": "Simple Plan",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
+  		"id": 51343,
+  		"name": "Joe Satriani - SP",
+  		"city": "São Paulo",
+  		"state": "SP",
   		"genre": "Show"
   	},
   	{
@@ -25,13 +25,6 @@
   		"genre": "Show"
   	},
   	{
-  		"id": 47540,
-  		"name": "We Will Rock You - O Musical do Queen",
-  		"city": "São Paulo",
-  		"state": "SP",
-  		"genre": "Teatro"
-  	},
-  	{
   		"id": 48292,
   		"name": "Histeria",
   		"city": "São Paulo",
@@ -39,11 +32,25 @@
   		"genre": "Teatro"
   	},
   	{
-  		"id": 49135,
-  		"name": "Meu Passado Não Me Condena",
+  		"id": 50775,
+  		"name": "Hiperativo",
   		"city": "São Paulo",
   		"state": "SP",
   		"genre": "Teatro"
+  	},
+  	{
+  		"id": 50799,
+  		"name": "My Fair Lady",
+  		"city": "São Paulo",
+  		"state": "SP",
+  		"genre": "Teatro"
+  	},
+  	{
+  		"id": 51381,
+  		"name": "A Cor do Som",
+  		"city": "Bahia",
+  		"state": "BA",
+  		"genre": "Show"
   	},
   	{
   		"id": 51123,
@@ -53,25 +60,18 @@
   		"genre": "Especiais"
   	},
   	{
-  		"id": 47426,
-  		"name": "A Galinha Pintadinha em Ovo de Novo",
-  		"city": "São Paulo",
-  		"state": "SP",
+  		"id": 48450,
+  		"name": "O Musical Mamonas",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
   		"genre": "Teatro"
   	},
   	{
-  		"id": 50285,
-  		"name": "Titãs - Pop Rock Brasil",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 50964,
-  		"name": "Maria Rita - Samba da Maria",
+  		"id": 45978,
+  		"name": "Mauricio Meirelles em Perdendo Amigos",
   		"city": "São Paulo",
   		"state": "SP",
-  		"genre": "Show"
+  		"genre": "Teatro"
   	}
   ]
 }
