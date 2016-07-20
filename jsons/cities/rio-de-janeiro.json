@@ -5,46 +5,11 @@
   "events":
   [
     {
-  		"id": 47402,
-  		"name": "Elza Soares",
+  		"id": 48450,
+  		"name": "O Musical Mamonas",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 50283,
-  		"name": "Karina Buhr + Johnny Hooker",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 50218,
-  		"name": "Salada das Frutas",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 50285,
-  		"name": "Titãs - Pop Rock Brasil",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 50286,
-  		"name": "Geraldo Azevedo - Arraiá do Circo",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 49255,
-  		"name": "Kamelot - 'Haven'",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
+  		"genre": "Teatro"
   	},
   	{
   		"id": 50613,
@@ -54,8 +19,43 @@
   		"genre": "Show"
   	},
   	{
+  		"id": 51128,
+  		"name": "Os Realistas",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Teatro"
+  	},
+  	{
   		"id": 49439,
   		"name": "Matanza Fest",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Show"
+  	},
+  	{
+  		"id": 44606,
+  		"name": "Tereza Cristina - 'Cartola: Um Poeta de Mangueira'",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Show"
+  	},
+  	{
+  		"id": 50336,
+  		"name": "Pequeno Cidadão",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Infantil e Familiares"
+  	},
+  	{
+  		"id": 49044,
+  		"name": "Eu Amo Baile Funk",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Show"
+  	},
+  	{
+  		"id": 51150,
+  		"name": "Simple Plan",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Show"
@@ -68,8 +68,8 @@
   		"genre": "Teatro"
   	},
   	{
-  		"id": 49835,
-  		"name": "A Roda - Monarco e o Samba da Ouvidor",
+  		"id": 51224,
+  		"name": "Paulinho Moska - Violoz: Moska, Violões e Voz",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Show"
