@@ -18,6 +18,13 @@
       "genre": "Teatro"
     },
     {
+      "id": 51343,
+      "name": "Joe Satriani - SP",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Show"
+    },
+    {
       "id": 48292,
       "name": "Histeria",
       "city": "São Paulo",
@@ -25,36 +32,15 @@
       "genre": "Teatro"
     },
     {
-      "id": 48360,
-      "name": "Thiago Ventura em Isso é Tudo que Eu Tenho",
+      "id": 50775,
+      "name": "Hiperativo",
       "city": "São Paulo",
       "state": "SP",
       "genre": "Teatro"
     },
     {
-      "id": 49135,
-      "name": "Meu Passado Não Me Condena",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Teatro"
-    },
-    {
-      "id": 49988,
-      "name": "Samsung Best of Blues",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Show"
-    },
-    {
-      "id": 45978,
-      "name": "Maurício Meirelles em Perdendo Amigos",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Teatro"
-    },
-    {
-      "id": 48228,
-      "name": "Whindersson Nunes",
+      "id": 50799,
+      "name": "My Fair Lady",
       "city": "São Paulo",
       "state": "SP",
       "genre": "Teatro"
@@ -67,11 +53,26 @@
       "genre": "Teatro"
     },
     {
-      "id": 50707,
-      "name": "GALA",
+      "id": 50117,
+      "name": "Rezende Evil",
       "city": "São Paulo",
       "state": "SP",
-      "genre": "Dança"
+      "genre": "Teatro"
+    },
+    {
+      "id": 51123,
+      "name": "Beatlemania Experience - The Beatles Biography",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Especiais
+"
+    },
+    {
+      "id": 47734,
+      "name": "Toquinho.MPB4.Ivan Lins",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Show"
     }
   ]
 }
