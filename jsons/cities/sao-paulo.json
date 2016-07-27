@@ -18,11 +18,11 @@
       "genre": "Teatro"
     },
     {
-      "id": 51343,
-      "name": "Joe Satriani - SP",
-      "city": "São Paulo",
+      "id": 50981,
+      "name": "Arena Banco Original",
+      "city": "Campos do Jordão",
       "state": "SP",
-      "genre": "Show"
+      "genre": "Especiais"
     },
     {
       "id": 48292,
@@ -32,15 +32,8 @@
       "genre": "Teatro"
     },
     {
-      "id": 50775,
-      "name": "Hiperativo",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Teatro"
-    },
-    {
-      "id": 50799,
-      "name": "My Fair Lady",
+      "id": 47426,
+      "name": "A Galinha Pintadinha Em Ovo De Novo",
       "city": "São Paulo",
       "state": "SP",
       "genre": "Teatro"
@@ -53,26 +46,32 @@
       "genre": "Teatro"
     },
     {
-      "id": 50117,
-      "name": "Rezende Evil",
-      "city": "São Paulo",
+      "id": 51849,
+      "name": "Just So Brasil",
+      "city": "Itu",
       "state": "SP",
-      "genre": "Teatro"
+      "genre": "Especiais"
     },
     {
-      "id": 51123,
-      "name": "Beatlemania Experience - The Beatles Biography",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Especiais
-"
-    },
-    {
-      "id": 47734,
-      "name": "Toquinho.MPB4.Ivan Lins",
+      "id": 51577,
+      "name": "Jota Quest",
       "city": "São Paulo",
       "state": "SP",
       "genre": "Show"
+    },
+    {
+      "id": 50297,
+      "name": "Fabio Jr - Cruz Verde",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Show"
+    },
+    {
+      "id": 49135,
+      "name": "Meu Passado Não Me Condena",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Teatro"
     }
   ]
 }
