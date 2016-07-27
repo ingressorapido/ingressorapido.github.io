@@ -12,29 +12,29 @@
   		"genre": "Teatro"
   	},
   	{
-  		"id": 50613,
-  		"name": "Mariene de Castro",
+  		"id": 50440,
+  		"name": "Th Choice Tomorrowteen",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Festas"
+  	},
+  	{
+  		"id": 51150,
+  		"name": "Simple Plan",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Show"
   	},
   	{
-  		"id": 51128,
-  		"name": "Os Realistas",
+  		"id": 50984,
+  		"name": "Arraiá do Bloco Quizomba + Gambiarra - A Festa!",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
-  		"genre": "Teatro"
+  		"genre": "Festas"
   	},
   	{
-  		"id": 49439,
-  		"name": "Matanza Fest",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 44606,
-  		"name": "Tereza Cristina - 'Cartola: Um Poeta de Mangueira'",
+  		"id": 49044,
+  		"name": "Eu Amo Baile Funk",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Show"
@@ -54,25 +54,25 @@
   		"genre": "Show"
   	},
   	{
-  		"id": 51150,
-  		"name": "Simple Plan",
+  		"id": 51059,
+  		"name": "Maria Luiza em  Jazz in Bossa, Bossa In Jazz",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Show"
   	},
   	{
-  		"id": 49918,
-  		"name": "Love Story, o Musical",
+  		"id": 51184,
+    		"name": " Liah Soares - Voltas Ao Redor De Mim",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Show"
+  	},
+  	{
+  		"id": 51128,
+  		"name": "Os Realistas",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Teatro"
-  	},
-  	{
-  		"id": 51224,
-  		"name": "Paulinho Moska - Violoz: Moska, Violões e Voz",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
   	}
   ]
 }
