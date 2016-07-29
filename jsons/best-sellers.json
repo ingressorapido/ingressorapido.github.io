@@ -3,21 +3,7 @@
   "description": "Aqui você confere quais foram os shows, peças de teatro e espetáculos mais populares essa semana no Brasil.",
   "events":
   [
-  	{
-  		"id": 48403,
-  		"name": "We Will Rock You - O Musical do Queen",
-  		"city": "São Paulo",
-  		"state": "SP",
-  		"genre": "Teatro"
-  	},
-  	{
-  		"id": 51529,
-  		"name": "Zé Ramalho - 40 Anos de  Carreira",
-  		"city": "Salvador",
-  		"state": "BA",
-  		"genre": "Show"
-  	},
-  	{
+    {
   		"id": 50744,
   		"name": "Mariah Carey & Convidado Especial - SP",
   		"city": "São Paulo",
@@ -25,36 +11,8 @@
   		"genre": "Show"
   	},
   	{
-  		"id": 48292,
-  		"name": "Histeria",
-  		"city": "São Paulo",
-  		"state": "SP",
-  		"genre": "Teatro"
-  	},
-  	{
-  		"id": 50775,
-  		"name": "Hiperativo",
-  		"city": "São Paulo",
-  		"state": "SP",
-  		"genre": "Teatro"
-  	},
-  	{
-  		"id": 50924,
-  		"name": "Djavan - Vidas Para Contar",
-  		"city": "Salvador",
-  		"state": "BA",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 50981,
-  		"name": "ARENA BANCO ORIGINAL",
-  		"city": "Campos do Jordão",
-  		"state": "SP",
-  		"genre": "Especiais"
-  	},
-  	{
-  		"id": 50117,
-  		"name": "Rezende Evil",
+  		"id": 48403,
+  		"name": "We Will Rock You - O Musical do Queen",
   		"city": "São Paulo",
   		"state": "SP",
   		"genre": "Teatro"
@@ -65,6 +23,48 @@
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Teatro"
+  	},
+  	{
+  		"id": 48292,
+  		"name": "Histeria",
+  		"city": "São Paulo",
+  		"state": "SP",
+  		"genre": "Teatro"
+  	},
+  	{
+  		"id": 47426,
+  		"name": "A Galinha Pintadinha Em Ovo De Novo",
+  		"city": "Sâo Paulo",
+  		"state": "SP",
+  		"genre": "Teatro"
+  	},
+  	{
+  		"id": 50297,
+  		"name": "Fabio Jr - Cruz Verde",
+  		"city": "São Paulo",
+  		"state": "SP",
+  		"genre": "Show"
+  	},
+  	{
+  		"id": 51529,
+  		"name": "Zé Ramalho - 40 Anos de Carreira",
+  		"city": "Salvador",
+  		"state": "BA",
+  		"genre": "Show"
+  	},
+  	{
+  		"id": 50294,
+  		"name": "O Homem Primitivo",
+  		"city": "São Paulo",
+  		"state": "SP",
+  		"genre": "Teatro"
+  	},
+  	{
+  		"id": 51849,
+  		"name": "Just So Brasil",
+  		"city": "Itu",
+  		"state": "SP",
+  		"genre": "Especiais"
   	},
   	{
   		"id": 51245,
