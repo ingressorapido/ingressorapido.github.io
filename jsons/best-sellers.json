@@ -11,29 +11,36 @@
   		"genre": "Show"
   	},
   	{
-  		"id": 48403,
-  		"name": "We Will Rock You - O Musical do Queen",
+  		"id": 51339,
+  		"name": "Zeca Pagodinho",
+  		"city": "Salvador",
+  		"state": "BA",
+  		"genre": "Show"
+  	},
+  	{
+  		"id": 50463,
+  		"name": "Os Homens São de Marte... E É Para Lá Que Eu Vou",
   		"city": "São Paulo",
   		"state": "SP",
   		"genre": "Teatro"
   	},
   	{
-  		"id": 48450,
-  		"name": "O Musical Mamonas",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Teatro"
+  		"id": 51356,
+  		"name": "Spettacolo 2017,
+  		"city": "Florianópolis",
+  		"state": "SC",
+  		"genre": "Festas"
   	},
   	{
-  		"id": 48292,
-  		"name": "Histeria",
-  		"city": "São Paulo",
-  		"state": "SP",
-  		"genre": "Teatro"
-  	},
+  		"id": 51245,
+  		"name": "Nando Reis - No Recreio - Voz e Violão",
+  		"city": "Salvador",
+  		"state": "BA",
+  		"genre": "Show"
+  	}
   	{
-  		"id": 47426,
-  		"name": "A Galinha Pintadinha Em Ovo De Novo",
+  		"id": 50799,
+  		"name": "My Fair Lady",
   		"city": "Sâo Paulo",
   		"state": "SP",
   		"genre": "Teatro"
@@ -46,11 +53,18 @@
   		"genre": "Show"
   	},
   	{
-  		"id": 51529,
-  		"name": "Zé Ramalho - 40 Anos de Carreira",
-  		"city": "Salvador",
-  		"state": "BA",
-  		"genre": "Show"
+  		"id": 48450,
+  		"name": "O Musical Mamonas",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Teatro"
+  	},
+  	{
+  		"id":51851,
+  		"name": "Tamo Junto!! com Marco Luque - GRAVAÇÃO DVD",
+  		"city": "São Paulo",
+  		"state": "SP",
+  		"genre": "Teatro"
   	},
   	{
   		"id": 50294,
@@ -60,18 +74,11 @@
   		"genre": "Teatro"
   	},
   	{
-  		"id": 51849,
-  		"name": "Just So Brasil",
-  		"city": "Itu",
+  		"id": 49135,
+  		"name": "Meu Passado Não Me Condena",
+  		"city": "São Paulo",
   		"state": "SP",
-  		"genre": "Especiais"
-  	},
-  	{
-  		"id": 51245,
-  		"name": "Nando Reis - No Recreio - Voz e Violão",
-  		"city": "Salvador",
-  		"state": "BA",
-  		"genre": "Show"
+  		"genre": "Teatro"
   	}
   ]
 }
