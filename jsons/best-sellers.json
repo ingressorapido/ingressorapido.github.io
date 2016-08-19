@@ -18,25 +18,25 @@
   		"genre": "Teatro"
   	},
   	{
-  		"id": 47357,
-  		"name": "Angra",
+  		"id": 51065,
+  		"name": "Bibi Ferreira - 4x Bibi",
+  		"city": "São Paulo",
+  		"state": "SP",
+  		"genre": "Teatro"
+  	},
+  	{
+  		"id": 51341,
+  		"name": "Ghost, o Musical",
+  		"city": "São Paulo",
+  		"state": "SP",
+  		"genre": "Teatro"
+  	},
+  	{
+  		"id": 51451,
+  		"name": "Jorge Vercillo - Nova no Teatro",
   		"city": "São Paulo",
   		"state": "SP",
   		"genre": "Show"
-  	},
-  	{
-  		"id": 51356,
-  		"name": "Spettacolo 2017",
-  		"city": "Florianópolis",
-  		"state": "SC",
-  		"genre": "Festas"
-  	},
-  	{
-  		"id": 50191,
-  		"name": "DSX by Fanta - Digital Stars Extreme",
-  		"city": "São Paulo",
-  		"state": "SP",
-  		"genre": "Especiais"
   	},
   	{
   		"id": 50799,
@@ -53,22 +53,22 @@
   		"genre": "Especiais"
   	},
   	{
-  		"id": 48450,
-  		"name": "O Musical Mamonas",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Teatro"
-  	},
-  	{
-  		"id":51851,
-  		"name": "Tamo Junto!! com Marco Luque - GRAVAÇÃO DVD",
+  		"id": 51695,
+  		"name": "Minha Vida Não Faz Sentido - Felipe Neto",
   		"city": "São Paulo",
   		"state": "SP",
   		"genre": "Teatro"
   	},
   	{
-  		"id": 50294,
-  		"name": "O Homem Primitivo",
+  		"id":52209,
+  		"name": "TIQUETÊ",
+  		"city": "São Paulo",
+  		"state": "SP",
+  		"genre": "Teatro"
+  	},
+  	{
+  		"id": 48360,
+  		"name": "Thiago Ventura em Isso é Tudo que eu Tenho",
   		"city": "São Paulo",
   		"state": "SP",
   		"genre": "Teatro"
