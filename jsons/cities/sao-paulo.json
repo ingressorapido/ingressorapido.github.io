@@ -4,13 +4,34 @@
   "description": "A Ingresso Rápido vai te ajudar a ficar por dentro de tudo o que há de melhor em São Paulo. Confira e divirta-se!",
   "events": [
     {
-      "id": 51157,
-      "name": "O Que Terá Acontecido a Baby Jane?",
+      "id": 52032,
+      "name": "Villa Mix Festival 2016",
       "city": "São Paulo",
       "state": "SP",
-      "genre": "Teatro"
+      "genre": "Show"
     },
      {
+      "id": 52240,
+      "name": "ESL CS: GO Pro League em São Paulo",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Especiais"
+    },
+    {
+      "id": 50744,
+      "name": "Mariah Carey & Il Volo - SP",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Show"
+    },
+    {
+      "id": 52066,
+      "name": "Burlesque - Paris 6 by Night - Agosto",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Show"
+    },
+    {
       "id": 50799,
       "name": "My Fair Lady",
       "city": "São Paulo",
@@ -18,60 +39,39 @@
       "genre": "Teatro"
     },
     {
-      "id": 42527,
-      "name": "A Pequena Sereia",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Infantil e Familiares"
-    },
-    {
-      "id": 51602,
-      "name": "Orquestra Filarmônica de Israel - Zubin Mehta",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Concerto"
-    },
-    {
-      "id": 51277,
-      "name": "Show do Bita",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Teatro"
-    },
-    {
-      "id": 48318,
-      "name": "Grupo Corpo 2016",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Dança"
-    },
-    {
-      "id": 48601,
-      "name": "MASP - Exposição",
+      "id": 51123,
+      "name": "Beatlemania Experience – The Beatles Biography",
       "city": "São Paulo",
       "state": "SP",
       "genre": "Especiais"
     },
     {
-      "id": 50686,
-      "name": "12 Homens e Uma Sentença",
+      "id": 51341,
+      "name": "Ghost, O Musical",
       "city": "São Paulo",
       "state": "SP",
       "genre": "Teatro"
     },
     {
-      "id": 51127,
-      "name": "Jorge Durian 30 Anos In Concert",
+      "id": 50686,
+      "name": "Samsung Best of Blues: Jamie Cullum",
       "city": "São Paulo",
       "state": "SP",
       "genre": "Show"
     },
     {
-      "id": 47027,
-      "name": "Jonas Kaufmann & Helmut Deutsch",
+      "id": 50294,
+      "name": "O Homem Primitivo",
       "city": "São Paulo",
       "state": "SP",
-      "genre": "Clássicos"
+      "genre": "Teatro"
+    },
+    {
+      "id": 49989,
+      "name": "Mallu Magalhães",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Show"
     }
   ]
 }
