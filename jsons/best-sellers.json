@@ -5,45 +5,31 @@
   [
     {
   		"id": 52066,
-  		"name": "Burlesque - Paris 6 by Night",
+  		"name": "Burlesque - Paris 6 by Night - Agosto",
   		"city": "São Paulo",
   		"state": "SP",
   		"genre": "Show"
   	},
   	{
-  		"id": 49135,
-  		"name": "Meu Passado Não Me Condena",
-  		"city": "São Paulo",
-  		"state": "SP",
-  		"genre": "Teatro"
-  	},
-  	{
-  		"id": 51065,
-  		"name": "Bibi Ferreira - 4x Bibi",
-  		"city": "São Paulo",
-  		"state": "SP",
-  		"genre": "Teatro"
-  	},
-  	{
-  		"id": 51341,
-  		"name": "Ghost, o Musical",
-  		"city": "São Paulo",
-  		"state": "SP",
-  		"genre": "Teatro"
-  	},
-  	{
-  		"id": 51451,
-  		"name": "Jorge Vercillo - Nova no Teatro",
+  		"id": 52032,
+  		"name": "Villa Mix Festival 2016",
   		"city": "São Paulo",
   		"state": "SP",
   		"genre": "Show"
   	},
   	{
-  		"id": 50799,
-  		"name": "My Fair Lady",
-  		"city": "Sâo Paulo",
+  		"id": 50744,
+  		"name": "Mariah Carey & Il Volo - SP",
+  		"city": "São Paulo",
   		"state": "SP",
-  		"genre": "Teatro"
+  		"genre": "Show"
+  	},
+  	{
+  		"id": 52240,
+  		"name": "ESL CS: GO Pro League em São Paulo",
+  		"city": "São Paulo",
+  		"state": "SP",
+  		"genre": "Especiais"
   	},
   	{
   		"id": 51123,
@@ -53,22 +39,36 @@
   		"genre": "Especiais"
   	},
   	{
-  		"id": 51695,
-  		"name": "Minha Vida Não Faz Sentido - Felipe Neto",
+  		"id": 50799,
+  		"name": "My Fair Lady",
+  		"city": "Sâo Paulo",
+  		"state": "SP",
+  		"genre": "Teatro"
+  	},
+  	{
+  		"id": 51356,
+  		"name": "SPETTACOLO 2017",
+  		"city": "Florianópolis",
+  		"state": "SC",
+  		"genre": "Festas"
+  	},
+  	{
+  		"id": 51341,
+  		"name": "Ghost O Musical",
   		"city": "São Paulo",
   		"state": "SP",
   		"genre": "Teatro"
   	},
   	{
-  		"id":52209,
-  		"name": "TIQUETÊ",
-  		"city": "São Paulo",
-  		"state": "SP",
+  		"id": 48450,
+  		"name": "O Musical Mamonas",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
   		"genre": "Teatro"
   	},
   	{
-  		"id": 48360,
-  		"name": "Thiago Ventura em Isso é Tudo que eu Tenho",
+  		"id": 52209,
+  		"name": "Tiquequê",
   		"city": "São Paulo",
   		"state": "SP",
   		"genre": "Teatro"
