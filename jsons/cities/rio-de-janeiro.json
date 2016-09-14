@@ -5,8 +5,36 @@
   "events":
   [
     {
-  		"id": 52287,
-  		"name": "Jorge Ben Jor - Sexta",
+  		"id": 52902,
+  		"name": "Wilco",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Show"
+  	},
+  	{
+  		"id": 52514,
+  		"name": "Filipe Ret",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Show"
+  	},
+  	{
+  		"id": 51835,
+  		"name": "Bibi Ferreira - 4X BIBI",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Teatro"
+  	},
+  	{
+  		"id": 52771,
+  		"name": "Caetano Apresenta Teresa",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Show"
+  	},
+  	{
+  		"id": 52780,
+  		"name": "Ibeyi",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Show"
@@ -19,36 +47,8 @@
   		"genre": "Teatro"
   	},
   	{
-  		"id": 48450,
-  		"name": "O Musical Mamonas",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Teatro"
-  	},
-  	{
-  		"id": 51908,
-  		"name": "Forró de Santa",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 49423,
-  		"name": "Luca Turilli's Rhapsody e Primal Fear",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 51947,
-  		"name": "Arnaldo Antunes + Moreno Veloso",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 49701,
-  		"name": "Edward Sharpe &The Magnetic Zeros+Courtney Barnett",
+  		"id": 51150,
+  		"name": "Simple Plan",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Show"
@@ -68,8 +68,8 @@
   		"genre": "Teatro"
   	},
   	{
-  		"id": 51791,
-  		"name": "Ponto de Equilíbrio 'Essa é a Nossa Música'",
+  		"id": 52795,
+  		"name": "Garbage",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Show"
