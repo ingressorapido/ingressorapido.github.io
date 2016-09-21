@@ -5,6 +5,13 @@
   "events":
   [
     {
+  		"id": 53040,
+  		"name": "Show do Bita",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Teatro"
+  	},
+  	{
   		"id": 52902,
   		"name": "Wilco",
   		"city": "Rio de Janeiro",
@@ -12,18 +19,11 @@
   		"genre": "Show"
   	},
   	{
-  		"id": 52514,
-  		"name": "Filipe Ret",
+  		"id": 51922,
+  		"name": "Daniel Boaventura - Your Song",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Show"
-  	},
-  	{
-  		"id": 51835,
-  		"name": "Bibi Ferreira - 4X BIBI",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Teatro"
   	},
   	{
   		"id": 52771,
@@ -33,8 +33,8 @@
   		"genre": "Show"
   	},
   	{
-  		"id": 52780,
-  		"name": "Ibeyi",
+  		"id": 53169,
+  		"name": "Liniker - Lança 'Remonta'",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Show"
@@ -54,8 +54,8 @@
   		"genre": "Show"
   	},
   	{
-  		"id": 51915,
-  		"name": "Alcione - Boleros| Gravação do DVD",
+  		"id": 48827,
+  		"name": "Falamansa",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Show"
