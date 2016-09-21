@@ -11,18 +11,18 @@
       "genre": "Especiais"
     },
      {
-      "id": 52240,
-      "name": "ESL CS: GO Pro League em São Paulo",
+      "id": 52692,
+      "name": "Cumplices de um Resgate",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Infantil e Familiares"
+    },
+    {
+      "id": 50191,
+      "name": "DSX by FANTA - Digital Stars Extreme",
       "city": "São Paulo",
       "state": "SP",
       "genre": "Especiais"
-    },
-    {
-      "id": 50744,
-      "name": "Mariah Carey & Il Volo - SP",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Show"
     },
     {
       "id": 52740,
@@ -60,15 +60,15 @@
       "genre": "Show"
     },
     {
-      "id": 51273,
-      "name": "O Grande Sucesso",
+      "id": 52863,
+      "name": "Ana Carolina",
       "city": "São Paulo",
       "state": "SP",
-      "genre": "Teatro"
+      "genre": "Show"
     },
     {
-      "id": 48130,
-      "name": "The Sisters of Mercy",
+      "id": 52306,
+      "name": "Samsung Best of Blues: Jamie Cullum",
       "city": "São Paulo",
       "state": "SP",
       "genre": "Show"
