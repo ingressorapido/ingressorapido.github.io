@@ -1,0 +1,253 @@
+[
+   {
+      "name":"Teatro Santander",
+      "lat":-23.590174,
+      "lon":-46.680485
+   },
+   {
+      "name":"Tom Brasil",
+      "lat":-23.641981,
+      "lon":-46.7098
+   },
+   {
+      "name":"Teatro Bradesco SP",
+      "lat":-23.55052,
+      "lon":-46.63331
+   },
+   {
+      "name":"Teatro Alfa",
+      "lat":-23.64852,
+      "lon":-46.72242
+   },
+   {
+      "name":"Theatro NET SP",
+      "lat":-23.595673,
+      "lon":-46.685516
+   },
+   {
+      "name":"TUCA / PUC-SP",
+      "lat":-23.541912,
+      "lon":-46.673477
+   },
+   {
+      "name":"Teatro Frei Caneca",
+      "lat":-23.553877,
+      "lon":-46.65348
+   },
+   {
+      "name":"Teatro Procópio Ferreira",
+      "lat":-23.988947,
+      "lon":-46.24795
+   },
+   {
+      "name":"Sala São Paulo",
+      "lat":-23.534805,
+      "lon":-46.64103
+   },
+   {
+      "name":"MASP Museu",
+      "lat":-23.563068,
+      "lon":-46.654434
+   },
+   {
+      "name":"Memorial da América Latina",
+      "lat":-23.55052,
+      "lon":-46.63331
+   },
+   {
+      "name":"Sala São Paulo MB",
+      "lat":-23.534805,
+      "lon":-46.64103
+   },
+   {
+      "name":"Memorial da América Latina",
+      "lat":-23.55052,
+      "lon":-46.63331
+   },
+   {
+      "name":"Teatro Sérgio Cardoso",
+      "lat":-23.558859,
+      "lon":-46.64534
+   },
+   {
+      "name":"Teatro Eva Wilma",
+      "lat":-23.543652,
+      "lon":-46.550003
+   },
+   {
+      "name":"Teatro Porto Seguro",
+      "lat":-23.53223,
+      "lon":-46.644257
+   },
+   {
+      "name":"MIS - Museu da Imagem e do Som",
+      "lat":-23.575216,
+      "lon":-46.678055
+   },
+   {
+      "name":"Teatro Gamaro",
+      "lat":-23.548468,
+      "lon":-46.612583
+   },
+   {
+      "name":"Tucarena / PUC-SP",
+      "lat":-23.536499,
+      "lon":-46.674866
+   },
+   {
+      "name":"Teatro Gazeta",
+      "lat":-23.563068,
+      "lon":-46.654434
+   },
+   {
+      "name":"Teatro Bibi Ferreira",
+      "lat":-23.55052,
+      "lon":-46.63331
+   },
+   {
+      "name":"Teatro Eva Herz SP",
+      "lat":-23.55052,
+      "lon":-46.63331
+   },
+   {
+      "name":"Auditório Ibirapuera Oscar Niemeyer",
+      "lat":-23.58611,
+      "lon":-46.654762
+   },
+   {
+      "name":"Teatro Fernando Torres",
+      "lat":-23.54196,
+      "lon":-46.567142
+   },
+   {
+      "name":"Teatro Santo Agostinho",
+      "lat":-23.572706,
+      "lon":-46.639168
+   },
+   {
+      "name":"Sala São Paulo - Tucca",
+      "lat":-23.534805,
+      "lon":-46.64103
+   },
+   {
+      "name":"Bourbon Street",
+      "lat":-23.55052,
+      "lon":-46.63331
+   },
+   {
+      "name":"Sala São Paulo - Cultura Artística",
+      "lat":-23.534805,
+      "lon":-46.64103
+   },
+   {
+      "name":"Banco Honda Hall",
+      "lat":-23.598583,
+      "lon":-46.68451
+   },
+   {
+      "name":"Clube Hebraica",
+      "lat":-23.55052,
+      "lon":-46.63331
+   },
+   {
+      "name":"Centro Cultural Banco do Brasil",
+      "lat":-23.547647,
+      "lon":-46.634712
+   },
+   {
+      "name":"Teatro Jaraguá",
+      "lat":-23.549412,
+      "lon":-46.644547
+   },
+   {
+      "name":"Centro Cultural São Paulo",
+      "lat":-23.55052,
+      "lon":-46.63331
+   },
+   {
+      "name":"Espaço Promon Sala São Luiz",
+      "lat":-23.590174,
+      "lon":-46.680485
+   },
+   {
+      "name":"Viradalata Espaço Capital",
+      "lat":-23.54179,
+      "lon":-46.683113
+   },
+   {
+      "name":"Sala São Paulo FBF",
+      "lat":-23.534805,
+      "lon":-46.64103
+   },
+   {
+      "name":"Espaço Parlapatões",
+      "lat":-23.54839,
+      "lon":-46.646793
+   },
+   {
+      "name":"Centro de Convenções Rebouças",
+      "lat":-23.565584,
+      "lon":-46.680557
+   },
+   {
+      "name":"Teatro VIVO",
+      "lat":-23.621424,
+      "lon":-46.69903
+   },
+   {
+      "name":"Teatro Aliança Francesa",
+      "lat":-23.544662,
+      "lon":-46.648914
+   },
+   {
+      "name":"Coração Sertanejo",
+      "lat":-23.69196,
+      "lon":-46.714695
+   },
+   {
+      "name":"Terra Country Interlagos",
+      "lat":-23.727495,
+      "lon":-46.697834
+   },
+   {
+      "name":"Teatro MuBE Nova Cultural",
+      "lat":-23.575243,
+      "lon":-46.67806
+   },
+   {
+      "name":"Holiday Inn",
+      "lat":-23.517614,
+      "lon":-46.63854
+   },
+   {
+      "name":"Theatro São Pedro",
+      "lat":-23.529491,
+      "lon":-46.65653
+   },
+   {
+      "name":"Teatro Shopping Morumbi",
+      "lat":-23.55052,
+      "lon":-46.63331
+   },
+   {
+      "name":"Lapa 40",
+      "lat":-22.91495,
+      "lon":-43.186905,
+      "bileto":true
+   },
+   {
+      "name":"Teatro Nathalia Timberg",
+      "lat":-23.016201,
+      "lon":-43.475185
+   },
+   {
+      "name":"Burlesque",
+      "lat":-23.55693,
+      "lon":-46.65902
+   },
+   {
+      "name":"Circo Voador",
+      "lat":-22.912193,
+      "lon":-43.181213
+   }
+]
