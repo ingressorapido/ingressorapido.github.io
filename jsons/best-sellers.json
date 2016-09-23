@@ -4,46 +4,46 @@
   "events":
   [
     {
-  		"id": 53130,
-  		"name": "TEDxSãoPaulo",
-  		"city": "São Paulo",
+  		"id": 53131,
+  		"name": "Skol Sunset com Jorge & Mateus",
+  		"city": "Guarujá",
   		"state": "SP",
-  		"genre": "Especiais"
+  		"genre": "Show"
   	},
   	{
-  		"id": 52621,
-  		"name": " IRA! E Camisa de Vênus",
+  		"id": 53161,
+  		"name": "O Topo da Montanha com Lázaro Ramos e Taís Araújo",
+  		"city": "Salvador",
+  		"state": "BA",
+  		"genre": "Teatro"
+  	},
+  	{
+  		"id": 53274,
+  		"name": "Bell Marques - Só as Antigas",
   		"city": "Salvador",
   		"state": "BA",
   		"genre": "Show"
   	},
   	{
-  		"id": 52795,
-  		"name": "Garbage",
+  		"id": 52740,
+  		"name": "Burlesque - Paris 6 by Night",
+  		"city": "São Paulo",
+  		"state": "SP",
+  		"genre": "Show"
+  	},
+  	{
+  		"id": 53169,
+  		"name": "Liniker - Lança 'Remonta'",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Show"
   	},
   	{
-  		"id": 52740,
-  		"name": "Burlesque - Paris 6 by Night - Setembro",
-  		"city": "São Paulo",
-  		"state": "SP",
+  		"id": 52902,
+  		"name": "Wilco",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
   		"genre": "Show"
-  	},
-  	{
-  		"id": 51123,
-  		"name": "Beatlemania Experience – The Beatles Biography",
-  		"city": "São Paulo",
-  		"state": "SP",
-  		"genre": "Especiais"
-  	},
-  	{
-  		"id": 50799,
-  		"name": "My Fair Lady",
-  		"city": "Sâo Paulo",
-  		"state": "SP",
-  		"genre": "Teatro"
   	},
   	{
   		"id": 51356,
@@ -53,11 +53,11 @@
   		"genre": "Festas"
   	},
   	{
-  		"id": 51341,
-  		"name": "Ghost O Musical",
-  		"city": "São Paulo",
-  		"state": "SP",
-  		"genre": "Teatro"
+  		"id": 43475,
+  		"name": "Temporada Filarmônica 2016",
+  		"city": "Belo Horizonte",
+  		"state": "MG",
+  		"genre": "Clássicos"
   	},
   	{
   		"id": 52755,
@@ -67,10 +67,10 @@
   		"genre": "Especiais"
   	},
   	{
-  		"id": 51627,
-  		"name": "Cássia Eller - O Musical",
-  		"city": "São Paulo",
-  		"state": "SP",
+  		"id": 51943,
+  		"name": "David Guetta",
+  		"city": "Florianópolis",
+  		"state": "SC",
   		"genre": "Show"
   	},
   	{
