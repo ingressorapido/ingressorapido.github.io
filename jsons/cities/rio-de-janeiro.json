@@ -5,6 +5,27 @@
   "events":
   [
     {
+  		"id": 51150,
+  		"name": "Simple Plan",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Show"
+  	},
+    {
+  		"id": 51632,
+  		"name": "Renato Russo - O Musical",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Teatro"
+  	},
+    {
+  		"id": 51304,
+    	"name": "Paradise Lost – The Plague Within - Brazil 2016",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Show"
+  	},
+    {
   		"id": 53040,
   		"name": "Show do Bita",
   		"city": "Rio de Janeiro",
@@ -26,8 +47,8 @@
   		"genre": "Show"
   	},
   	{
-  		"id": 52771,
-  		"name": "Caetano Apresenta Teresa",
+  		"id": 52763,
+  		"name": "Paralamas Trio",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Show"
@@ -40,36 +61,15 @@
   		"genre": "Show"
   	},
   	{
-  		"id": 51632,
-  		"name": "Renato Russo - O Musical",
+  		"id": 52552,
+  		"name": "Nelson Freitas e Vocês",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Teatro"
   	},
   	{
-  		"id": 51150,
-  		"name": "Simple Plan",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 48827,
-  		"name": "Falamansa",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 52363,
-    		"name": "Tom Cavalcante - Stomdup",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Teatro"
-  	},
-  	{
-  		"id": 52795,
-  		"name": "Garbage",
+  		"id": 49701,
+  		"name": "Edward Sharpe &The Magnetic Zeros+Courtney Barnett",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Show"
