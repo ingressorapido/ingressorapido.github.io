@@ -10,12 +10,19 @@
       "state": "SP",
       "genre": "Especiais"
     },
-     {
-      "id": 52692,
-      "name": "Cumplices de um Resgate",
+    {
+      "id": 52740,
+      "name": "Burlesque - Paris 6 by Night",
       "city": "São Paulo",
       "state": "SP",
-      "genre": "Infantil e Familiares"
+      "genre": "Show"
+    },
+    {
+      "id": 51273,
+      "name": "O Grande Sucesso",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Teatro"
     },
     {
       "id": 50191,
@@ -25,18 +32,18 @@
       "genre": "Especiais"
     },
     {
-      "id": 52740,
-      "name": "Burlesque - Paris 6 by Night",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Show"
-    },
-    {
       "id": 50799,
       "name": "My Fair Lady",
       "city": "São Paulo",
       "state": "SP",
       "genre": "Teatro"
+    },
+    {
+      "id": 53184,
+      "name": "Tributo Ao Rei do Pop",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Show"
     },
     {
       "id": 51123,
@@ -46,25 +53,18 @@
       "genre": "Especiais"
     },
     {
-      "id": 51341,
-      "name": "Ghost, O Musical",
+      "id": 50005,
+      "name": "Paulinho da Viola",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Show"
+    },
+    {
+      "id": 51682,
+      "name": "Antonio Fagundes em Vermelho",
       "city": "São Paulo",
       "state": "SP",
       "genre": "Teatro"
-    },
-    {
-      "id": 51627,
-      "name": "Cássia Eller - O Musical",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Show"
-    },
-    {
-      "id": 52863,
-      "name": "Ana Carolina",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Show"
     },
     {
       "id": 52306,
