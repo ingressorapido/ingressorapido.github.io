@@ -11,13 +11,6 @@
   		"genre": "Show"
   	},
   	{
-  		"id": 53161,
-  		"name": "O Topo da Montanha com Lázaro Ramos e Taís Araújo",
-  		"city": "Salvador",
-  		"state": "BA",
-  		"genre": "Teatro"
-  	},
-  	{
   		"id": 53274,
   		"name": "Bell Marques - Só as Antigas",
   		"city": "Salvador",
@@ -25,18 +18,32 @@
   		"genre": "Show"
   	},
   	{
-  		"id": 52740,
-  		"name": "Burlesque - Paris 6 by Night",
+  		"id": 49360,
+  		"name": "Caruaru Prime Music - Ed. Pop/Rock",
+  		"city": "Caruaru",
+  		"state": "PE",
+  		"genre": "Especiais"
+  	},
+  	{
+  		"id": 53184,
+  		"name": "Tributo ao Rei do Pop",
   		"city": "São Paulo",
   		"state": "SP",
   		"genre": "Show"
   	},
+    {
+  		"id": 52755,
+  		"name": "Experiência Alice - Exposição",
+  		"city": "São Paulo",
+  		"state": "SP",
+  		"genre": "Especiais"
+  	},
   	{
-  		"id": 53169,
-  		"name": "Liniker - Lança 'Remonta'",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
+  		"id": 50191,
+  		"name": "DSX by Fanta - Digital Stars Extreme",
+  		"city": "São Paulo",
+  		"state": "SP",
+  		"genre": "Especiais"
   	},
   	{
   		"id": 52902,
@@ -53,6 +60,13 @@
   		"genre": "Festas"
   	},
   	{
+  		"id": 51943,
+  		"name": "David Guetta",
+  		"city": "Florianópolis",
+  		"state": "SC",
+  		"genre": "Show"
+  	},
+    {
   		"id": 43475,
   		"name": "Temporada Filarmônica 2016",
   		"city": "Belo Horizonte",
@@ -60,25 +74,11 @@
   		"genre": "Clássicos"
   	},
   	{
-  		"id": 52755,
-  		"name": "Experiência Alice - Exposição",
+  		"id": 50799,
+  		"name": "My Fair Lady",
   		"city": "São Paulo",
   		"state": "SP",
-  		"genre": "Especiais"
-  	},
-  	{
-  		"id": 51943,
-  		"name": "David Guetta",
-  		"city": "Florianópolis",
-  		"state": "SC",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 52266,
-  		"name": "Elba Ramalho e Geraldo Azevedo",
-  		"city": "Salvador",
-  		"state": "BA",
-  		"genre": "Show"
+  		"genre": "Teatro"
   	}
   ]
 }
