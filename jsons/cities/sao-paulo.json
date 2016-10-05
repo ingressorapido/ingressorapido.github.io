@@ -11,15 +11,15 @@
       "genre": "Especiais"
     },
     {
-      "id": 52740,
-      "name": "Burlesque - Paris 6 by Night",
+      "id": 52332,
+      "name": "A Bela e a Fera",
       "city": "São Paulo",
       "state": "SP",
-      "genre": "Show"
+      "genre": "Teatro"
     },
     {
-      "id": 51273,
-      "name": "O Grande Sucesso",
+      "id": 52886,
+      "name": "Divas - O Musical",
       "city": "São Paulo",
       "state": "SP",
       "genre": "Teatro"
@@ -39,22 +39,22 @@
       "genre": "Teatro"
     },
     {
-      "id": 53184,
-      "name": "Tributo Ao Rei do Pop",
+      "id": 52133,
+      "name": "Histeria",
       "city": "São Paulo",
       "state": "SP",
-      "genre": "Show"
+      "genre": "Teatro"
     },
     {
-      "id": 51123,
-      "name": "Beatlemania Experience – The Beatles Biography",
+      "id": 53414,
+      "name": "Orquestra Acadêmica de São Paulo",
       "city": "São Paulo",
       "state": "SP",
-      "genre": "Especiais"
+      "genre": "Concerto"
     },
     {
-      "id": 50005,
-      "name": "Paulinho da Viola",
+      "id": 53364,
+      "name": "Léo Jaime e Marina Lima - Um Encontro Inesquecível",
       "city": "São Paulo",
       "state": "SP",
       "genre": "Show"
