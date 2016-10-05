@@ -19,57 +19,57 @@
   		"genre": "Teatro"
   	},
     {
-  		"id": 51304,
-    	"name": "Paradise Lost – The Plague Within - Brazil 2016",
+  		"id": 52902,
+    	"name": "Wilco",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Show"
   	},
     {
-  		"id": 53040,
-  		"name": "Show do Bita",
+  		"id": 51607,
+  		"name": "Martinho da Vila 'De Bem Com a Vida'",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Show"
+  	},
+  	{
+  		"id": 53530,
+  		"name": "Boca Rosa",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Teatro"
   	},
   	{
-  		"id": 52902,
-  		"name": "Wilco",
+  		"id": 52968,
+  		"name": "Eu Amo Baile Funk",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Show"
   	},
   	{
-  		"id": 51922,
-  		"name": "Daniel Boaventura - Your Song",
+  		"id": 53448,
+  		"name": "Moska + Suricato",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Show"
   	},
   	{
-  		"id": 52763,
-  		"name": "Paralamas Trio",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 53169,
-  		"name": "Liniker - Lança 'Remonta'",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 52552,
-  		"name": "Nelson Freitas e Vocês",
+  		"id": 50205,
+  		"name": "Paulinho Gogó: No Gogó do Paulinho'",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Teatro"
   	},
   	{
-  		"id": 49701,
-  		"name": "Edward Sharpe &The Magnetic Zeros+Courtney Barnett",
+  		"id": 52780,
+  		"name": "Ibeyi",
+  		"city": "Rio de Janeiro",
+  		"state": "RJ",
+  		"genre": "Show"
+  	},
+  	{
+  		"id": 52795,
+  		"name": "Garbage",
   		"city": "Rio de Janeiro",
   		"state": "RJ",
   		"genre": "Show"
