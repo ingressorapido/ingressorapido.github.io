@@ -5,6 +5,9 @@
   "events": [
     {
       "id": 52755,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=52755",
       "name": "Experiência Alice - Exposição",
       "city": "São Paulo",
       "state": "SP",
@@ -12,6 +15,9 @@
     },
     {
       "id": 52332,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=52332",
       "name": "A Bela e a Fera",
       "city": "São Paulo",
       "state": "SP",
@@ -19,6 +25,9 @@
     },
     {
       "id": 52886,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=52886",
       "name": "Divas - O Musical",
       "city": "São Paulo",
       "state": "SP",
@@ -26,6 +35,9 @@
     },
     {
       "id": 50191,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=50191",
       "name": "DSX by FANTA - Digital Stars Extreme",
       "city": "São Paulo",
       "state": "SP",
@@ -33,6 +45,9 @@
     },
     {
       "id": 50799,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=50799",
       "name": "My Fair Lady",
       "city": "São Paulo",
       "state": "SP",
@@ -40,6 +55,9 @@
     },
     {
       "id": 52133,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=52133",
       "name": "Histeria",
       "city": "São Paulo",
       "state": "SP",
@@ -47,6 +65,9 @@
     },
     {
       "id": 53414,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=53414",
       "name": "Orquestra Acadêmica de São Paulo",
       "city": "São Paulo",
       "state": "SP",
@@ -54,6 +75,9 @@
     },
     {
       "id": 53364,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=53364",
       "name": "Léo Jaime e Marina Lima - Um Encontro Inesquecível",
       "city": "São Paulo",
       "state": "SP",
@@ -61,6 +85,9 @@
     },
     {
       "id": 51682,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=51682",
       "name": "Antonio Fagundes em Vermelho",
       "city": "São Paulo",
       "state": "SP",
@@ -68,6 +95,9 @@
     },
     {
       "id": 52306,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=52306",
       "name": "Samsung Best of Blues: Jamie Cullum",
       "city": "São Paulo",
       "state": "SP",

@@ -2,77 +2,106 @@
   "title": "Rio de Janeiro",
   "photo": "https://ingressorapido.github.io/images/cities/rio-de-janeiro.png",
   "description": "A cidade fica ainda mais maravilhosa com esses novos espetáculos. E a Ingresso Rápido vai te ajudar a ficar por dentro de tudo. Divirta-se!",
-  "events":
-  [
+  "events": [
     {
-  		"id": 51150,
-  		"name": "Simple Plan",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
-  	},
+      "id": 51150,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=",
+      "name": "Simple Plan",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "genre": "Show"
+    },
     {
-  		"id": 51632,
-  		"name": "Renato Russo - O Musical",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Teatro"
-  	},
+      "id": 51632,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=",
+      "name": "Renato Russo - O Musical",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "genre": "Teatro"
+    },
     {
-  		"id": 52902,
-    	"name": "Wilco",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
-  	},
+      "id": 52902,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=",
+      "name": "Wilco",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "genre": "Show"
+    },
     {
-  		"id": 51607,
-  		"name": "Martinho da Vila 'De Bem Com a Vida'",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 53530,
-  		"name": "Boca Rosa",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Teatro"
-  	},
-  	{
-  		"id": 52968,
-  		"name": "Eu Amo Baile Funk",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 53448,
-  		"name": "Moska + Suricato",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 50205,
-  		"name": "Paulinho Gogó: No Gogó do Paulinho'",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Teatro"
-  	},
-  	{
-  		"id": 52780,
-  		"name": "Ibeyi",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 52795,
-  		"name": "Garbage",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Show"
-  	}
+      "id": 51607,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=",
+      "name": "Martinho da Vila 'De Bem Com a Vida'",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "genre": "Show"
+    },
+    {
+      "id": 53530,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=",
+      "name": "Boca Rosa",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "genre": "Teatro"
+    },
+    {
+      "id": 52968,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=52968",
+      "name": "Eu Amo Baile Funk",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "genre": "Show"
+    },
+    {
+      "id": 53448,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=",
+      "name": "Moska + Suricato",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "genre": "Show"
+    },
+    {
+      "id": 50205,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=",
+      "name": "Paulinho Gogó: No Gogó do Paulinho'",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "genre": "Teatro"
+    },
+    {
+      "id": 52780,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=",
+      "name": "Ibeyi",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "genre": "Show"
+    },
+    {
+      "id": 52795,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=",
+      "name": "Garbage",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "genre": "Show"
+    }
   ]
 }

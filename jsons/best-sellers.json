@@ -1,84 +1,116 @@
 {
   "title": "Top 10 da semana",
   "description": "Aqui você confere quais foram os shows, peças de teatro e espetáculos mais populares essa semana no Brasil.",
-  "events":
-  [
+  "events": [
     {
-  		"id": 53629,
-  		"name": "Sandy em Florianópolis",
-  		"city": "Florianópolis",
-  		"state": "SC",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 53587,
-  		"name": "Ivete Canta o Amor",
-  		"city": "Salvador",
-  		"state": "BA",
-  		"genre": "Show"
-  	},
-  	{
-  		"id": 49360,
-  		"name": "Caruaru Prime Music - Ed. Pop/Rock",
-  		"city": "Caruaru",
-  		"state": "PE",
-  		"genre": "Especiais"
-  	},
-  	{
-  		"id": 53425,
-  		"name": "Patati & Patata - Sorrir e Brincar (SP)",
-  		"city": "São Paulo",
-  		"state": "SP",
-  		"genre": "Teatro"
-  	},
+      "id": 53629,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=53629",
+      "name": "Sandy em Florianópolis",
+      "city": "Florianópolis",
+      "state": "SC",
+      "genre": "Show"
+    },
     {
-  		"id": 52755,
-  		"name": "Experiência Alice - Exposição",
-  		"city": "São Paulo",
-  		"state": "SP",
-  		"genre": "Especiais"
-  	},
-  	{
-  		"id": 50191,
-  		"name": "DSX by Fanta - Digital Stars Extreme",
-  		"city": "São Paulo",
-  		"state": "SP",
-  		"genre": "Especiais"
-  	},
-  	{
-  		"id": 52886,
-  		"name": "Divas - O Musical",
-  		"city": "São Paulo",
-  		"state": "SP",
-  		"genre": "Teatro"
-  	},
-  	{
-  		"id": 51632,
-  		"name": "Renato Russo - O Musical",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Teatro"
-  	},
-  	{
-  		"id": 51943,
-  		"name": "David Guetta",
-  		"city": "Florianópolis",
-  		"state": "SC",
-  		"genre": "Show"
-  	},
+      "id": 53587,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=53587",
+      "name": "Ivete Canta o Amor",
+      "city": "Salvador",
+      "state": "BA",
+      "genre": "Show"
+    },
     {
-  		"id": 53588,
-  		"name": "Fight2Night - Luta",
-  		"city": "Rio de Janeiro",
-  		"state": "RJ",
-  		"genre": "Esporte"
-  	},
-  	{
-  		"id": 52306,
-  		"name": "Samsung Best of Blues: Jamie Cullum",
-  		"city": "São Paulo",
-  		"state": "SP",
-  		"genre": "Show"
-  	}
+      "id": 49360,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=49360",
+      "name": "Caruaru Prime Music - Ed. Pop/Rock",
+      "city": "Caruaru",
+      "state": "PE",
+      "genre": "Especiais"
+    },
+    {
+      "id": 53425,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=53425",
+      "name": "Patati & Patata - Sorrir e Brincar (SP)",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Teatro"
+    },
+    {
+      "id": 52755,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=52755",
+      "name": "Experiência Alice - Exposição",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Especiais"
+    },
+    {
+      "id": 50191,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=50191",
+      "name": "DSX by Fanta - Digital Stars Extreme",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Especiais"
+    },
+    {
+      "id": 52886,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=52886",
+      "name": "Divas - O Musical",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Teatro"
+    },
+    {
+      "id": 51632,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=51632",
+      "name": "Renato Russo - O Musical",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "genre": "Teatro"
+    },
+    {
+      "id": 51943,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=51943",
+      "name": "David Guetta",
+      "city": "Florianópolis",
+      "state": "SC",
+      "genre": "Show"
+    },
+    {
+      "id": 53588,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=53588",
+      "name": "Fight2Night - Luta",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "genre": "Esporte"
+    },
+    {
+      "id": 52306,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=52306",
+      "name": "Samsung Best of Blues: Jamie Cullum",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Show"
+    }
   ]
 }
