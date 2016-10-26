@@ -4,14 +4,14 @@
   "description": "A cidade fica ainda mais maravilhosa com esses novos espetáculos. E a Ingresso Rápido vai te ajudar a ficar por dentro de tudo. Divirta-se!",
   "events": [
     {
-      "id": 50317,
+      "id": 54026,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=50317",
-      "name": "Reveillon Celebrare 2017 - 02",
+      "image": "http://content.ingressorapido.com.br/event?id=54026",
+      "name": "Festa das Patroas",
       "city": "Rio de Janeiro",
       "state": "RJ",
-      "genre": "Festas"
+      "genre": "Show"
     },
     {
       "id": 51632,
@@ -24,16 +24,6 @@
       "genre": "Teatro"
     },
     {
-      "id": 52902,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=52902",
-      "name": "Wilco",
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "genre": "Show"
-    },
-    {
       "id": 53588,
       "id_bileto": null,
       "is_bileto": false,
@@ -44,11 +34,11 @@
       "genre": "Esporte"
     },
     {
-      "id": 53727,
+      "id": 49835,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=53727",
-      "name": "Show Anavitória",
+      "image": "http://content.ingressorapido.com.br/event?id=49835",
+      "name": "A Roda - Monarco e o Samba da Ouvidor",
       "city": "Rio de Janeiro",
       "state": "RJ",
       "genre": "Show"
@@ -58,7 +48,17 @@
       "id_bileto": null,
       "is_bileto": false,
       "image": "http://content.ingressorapido.com.br/event?id=53169",
-      "name": "Liniker - lança 'Remonta'",
+      "name": "Liniker - Lança 'Remonta'",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "genre": "Show"
+    },
+    {
+      "id": 53604,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=53604",
+      "name": "Tulipa Ruiz",
       "city": "Rio de Janeiro",
       "state": "RJ",
       "genre": "Show"
@@ -74,11 +74,11 @@
       "genre": "Show"
     },
     {
-      "id": 49835,
+      "id": 52497,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=49835",
-      "name": "A Roda - Monarco e o Samba da Ouvidor",
+      "image": "http://content.ingressorapido.com.br/event?id=52497",
+      "name": "Sabaton",
       "city": "Rio de Janeiro",
       "state": "RJ",
       "genre": "Show"
@@ -94,11 +94,11 @@
       "genre": "Show"
     },
     {
-      "id": 53604,
+      "id": 53831,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=53604",
-      "name": "Tulipa Ruiz",
+      "image": "http://content.ingressorapido.com.br/event?id=53831",
+      "name": "Rubel",
       "city": "Rio de Janeiro",
       "state": "RJ",
       "genre": "Show"
