@@ -1,95 +1,55 @@
 {
-  "title": "Top 10 da semana",
-  "description": "Aqui você confere quais foram os shows, peças de teatro e espetáculos mais populares essa semana no Brasil.",
+  "title": "A hora é agora!",
+  "description": "Final de semana chegou e essa é a última chance de assistir os espetáculos! Não perca essa oportunidade! Corre!",
   "events": [
     {
-      "id": 50799,
+      "id": 51682,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=50799",
-      "name": "My Fair Lady",
+      "image": "http://content.ingressorapido.com.br/event?id=51682",
+      "name": "Antonio Fagundes em Vermelho",
       "city": "São Paulo",
       "state": "SP",
       "genre": "Teatro"
     },
     {
-      "id": 53872,
+      "id": 52548,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=53872",
-      "name": "Silvio Santos Vem Aí!",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Especiais"
-    },
-    {
-      "id": 51356,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=51356",
-      "name": "Spettacolo 2017",
-      "city": "Florianópolis",
-      "state": "SC",
-      "genre": "Festas"
-    },
-    {
-      "id": 54026,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=54026",
-      "name": "Festa das Patroas",
+      "image": "http://content.ingressorapido.com.br/event?id=52548",
+      "name": "Beto Guedes",
       "city": "Rio de Janeiro",
       "state": "RJ",
       "genre": "Show"
     },
     {
-      "id": 53131,
+      "id": 50191,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=53131",
-      "name": "Skol Sunset com Jorge e Mateus",
-      "city": "Guarujá",
+      "image": "http://content.ingressorapido.com.br/event?id=50191",
+      "name": "DSX by Fanta - Digital Stars Extreme",
+      "city": "São Paulo",
       "state": "SP",
-      "genre": "Show"
-    },
-    {
-      "id": 53415,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=53415",
-      "name": "MECAINHOTIM",
-      "city": "Brumadinho",
-      "state": "MG",
       "genre": "Especiais"
     },
     {
-      "id": 52886,
+      "id": 52905,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=52886",
-      "name": "Divas - O Musical",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Teatro"
-    },
-    {
-      "id": 51632,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=51632",
-      "name": "Renato Russo - O Musical",
+      "image": "http://content.ingressorapido.com.br/event?id=52905",
+      "name": "Ed Motta - Solo",
       "city": "Rio de Janeiro",
       "state": "RJ",
-      "genre": "Teatro"
+      "genre": "Show"
     },
     {
-      "id": 51943,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=51943",
-      "name": "David Guetta",
-      "city": "Florianópolis",
-      "state": "SC",
+      "id": 53543,
+      "id_bileto": 31,
+      "is_bileto": true,
+      "image": "http://content.ingressorapido.com.br/event?id=53543",
+      "name": "Funk Samba Club + Melanina Carioca",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
       "genre": "Show"
     },
     {
@@ -103,14 +63,54 @@
       "genre": "Teatro"
     },
     {
-      "id": 53587,
+      "id": 53448,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=53587",
-      "name": "Ivete Canta O Amor",
+      "image": "http://content.ingressorapido.com.br/event?id=53448",
+      "name": "Moska + Suricato",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "genre": "Show"
+    },
+    {
+      "id": 53604,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=53604",
+      "name": "Tulipa Ruiz",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "genre": "Show"
+    },
+    {
+      "id": 51572,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=51572",
+      "name": "Vanessa da Mata - No Show Delicadezas (RS)",
+      "city": "Porto Alegre",
+      "state": "RS",
+      "genre": "Show"
+    },
+    {
+      "id": 52797,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=52797",
+      "name": "Ana Gabriela Show - Salvador",
       "city": "Salvador",
       "state": "BA",
       "genre": "Show"
+    },
+    {
+      "id": 53459,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=53459",
+      "name": "FIM?",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Infantil e Familiares"
     }
   ]
 }
