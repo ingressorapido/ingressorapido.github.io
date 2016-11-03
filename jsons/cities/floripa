@@ -1,0 +1,56 @@
+ "title": "Floripa",
+  "photo": "https://ingressorapido.github.io/images/cities/sao-paulo.png",
+  "description": "A Ingresso Rápido vai te ajudar a ficar por dentro de tudo o que está rolando em Floripa. Confira e divirta-se!",
+  "events": [
+    {
+      "id": 53872,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=53872",
+      "name": "Silvio Santos Vem Aí!",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Especiais"
+    },
+    {
+      "id": 52755,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=52755",
+      "name": "Experiência Alice - Exposição",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Especiais"
+    },
+    {
+      "id": 53367,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=53367",
+      "name": "Natal Mágico (SP)",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Show"
+    },
+    {
+      "id": 53541,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=53541",
+      "name": "GOD",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Teatro"
+    },
+    {
+      "id": 46924,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=46924",
+      "name": "Cia. Barbixas Apresenta: Improvável",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Teatro"
+    }
+  ]
+}
