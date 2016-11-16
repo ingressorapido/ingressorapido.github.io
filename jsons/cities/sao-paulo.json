@@ -14,16 +14,6 @@
       "genre": "Especiais"
     },
     {
-      "id": 50799,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=50799",
-      "name": "My Fair Lady",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Teatro"
-    },
-    {
       "id": 52755,
       "id_bileto": null,
       "is_bileto": false,
@@ -34,11 +24,21 @@
       "genre": "Especiais"
     },
     {
-      "id": 53367,
+      "id": 52863,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=53367",
-      "name": "Natal Mágico (SP)",
+      "image": "http://content.ingressorapido.com.br/event?id=52863",
+      "name": "Ana Carolina",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Show"
+    },
+    {
+      "id": 54071,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=54071",
+      "name": "Sandy",
       "city": "São Paulo",
       "state": "SP",
       "genre": "Show"
@@ -54,51 +54,11 @@
       "genre": "Teatro"
     },
     {
-      "id": 52886,
+      "id": 50799,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=52886",
-      "name": "Divas - O Musical",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Teatro"
-    },
-    {
-      "id": 53364,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=53364",
-      "name": "Leo Jaime e Marina Lima - Um Encontro Inesquecível",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Show"
-    },
-    {
-      "id": 53218,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=53218",
-      "name": "Samuel Rosa e Lô Borges - Nova no Teatro",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Show"
-    },
-    {
-      "id": 53512,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=53512",
-      "name": "Jorge Vercillo",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Show"
-    },
-    {
-      "id": 46924,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=46924",
-      "name": "Cia. Barbixas Apresenta: Improvável",
+      "image": "http://content.ingressorapido.com.br/event?id=50799",
+      "name": "My Fair Lady",
       "city": "São Paulo",
       "state": "SP",
       "genre": "Teatro"
