@@ -14,94 +14,44 @@
       "genre": "Show"
     },
     {
-      "id": 51632,
+      "id": 54215,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=51632",
-      "name": "Renato Russo - O Musical",
+      "image": "http://content.ingressorapido.com.br/event?id=54215",
+      "name": "Dado e Bonfá em Legião Urbana XXX Anos - Sexta",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "genre": "Show"
+    },
+    {
+      "id": 54093,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=54093",
+      "name": "Baia - 25 anos",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "genre": "Show"
+    },
+    {
+      "id": 54260,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=54260",
+      "name": "60! DÉCADA DE ARROMBA - DOC MUSICAL",
       "city": "Rio de Janeiro",
       "state": "RJ",
       "genre": "Teatro"
     },
     {
-      "id": 53588,
+      "id": 54299,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=53588",
-      "name": "Fight2Night - Luta",
+      "image": "http://content.ingressorapido.com.br/event?id=54299",
+      "name": "Garota de Ipanema - O Amor é Bossa",
       "city": "Rio de Janeiro",
       "state": "RJ",
-      "genre": "Esporte"
-    },
-    {
-      "id": 49835,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=49835",
-      "name": "A Roda - Monarco e o Samba da Ouvidor",
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "genre": "Show"
-    },
-    {
-      "id": 53169,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=53169",
-      "name": "Liniker - Lança 'Remonta'",
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "genre": "Show"
-    },
-    {
-      "id": 53604,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=53604",
-      "name": "Tulipa Ruiz",
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "genre": "Show"
-    },
-    {
-      "id": 53448,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=53448",
-      "name": "Moska + Suricato",
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "genre": "Show"
-    },
-    {
-      "id": 52497,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=52497",
-      "name": "Sabaton",
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "genre": "Show"
-    },
-    {
-      "id": 53835,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=53835",
-      "name": "Diogo Nogueira - Lançamento do DVD Alma Brasileira",
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "genre": "Show"
-    },
-    {
-      "id": 53831,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=53831",
-      "name": "Rubel",
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "genre": "Show"
+      "genre": "Teatro"
     }
   ]
 }
