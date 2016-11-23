@@ -24,34 +24,34 @@
       "genre": "Show"
     },
     {
-      "id": 54093,
+      "id": 54569,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=54093",
-      "name": "Baia - 25 anos",
+      "image": "http://content.ingressorapido.com.br/event?id=54569",
+      "name": "Uma Aventura de Natal",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "genre": "Infantil e Familiares"
+    },
+    {
+      "id": 53605,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=53605",
+      "name": "Black Alien",
       "city": "Rio de Janeiro",
       "state": "RJ",
       "genre": "Show"
     },
     {
-      "id": 54260,
+      "id": 54783,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=54260",
-      "name": "60! DÉCADA DE ARROMBA - DOC MUSICAL",
+      "image": "http://content.ingressorapido.com.br/event?id=54783",
+      "name": "Teresa Canta Cartola",
       "city": "Rio de Janeiro",
       "state": "RJ",
-      "genre": "Teatro"
-    },
-    {
-      "id": 54299,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=54299",
-      "name": "Garota de Ipanema - O Amor é Bossa",
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "genre": "Teatro"
+      "genre": "Show"
     }
   ]
 }
