@@ -1,116 +1,66 @@
 {
-  "title": "TOP 10",
-  "description": "Final de semana chegou! Não deixe de aproveitar os melhores espetáculos! ",
+  "title": "Acontece esse final de semana",
+  "description": "Confira os descontos de black weekend para aproveitar os melhores espetáculos. Boa diversão! ",
   "events": [
     {
-      "id": 54561,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI054561.jpg",
-      "name": "Sunset On The Beach do Wesley Safadão",
-      "city": "Guarujá",
-      "state": "SP",
-      "genre": "Show"
-    },
-    {
-      "id": 53541,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI053541.jpg",
-      "name": "GOD",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Teatro"
-    },
-    {
-      "id": 51356,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI051356.jpg",
-      "name": "Spettacolo 2017",
-      "city": "Florianópolis",
-      "state": "SC",
-      "genre": "Festas"
-    },
-    {
-      "id": 54026,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI054026.jpg",
-      "name": "Festa das Patroas",
+      "id": 54283,
+      "id_bileto": 71,
+      "is_bileto": true,
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI054283.jpg",
+      "name": "Preta Gil",
       "city": "Rio de Janeiro",
       "state": "RJ",
       "genre": "Show"
     },
     {
-      "id": 53523,
+      "id": 54260,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI053523.jpg",
-      "name": "JIM",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Teatro"
-    },
-    {
-      "id": 52755,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI052755.jpg",
-      "name": "Experiência Alice - Exposição",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Especiais"
-    },
-    {
-      "id": 51343,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI051343.jpg",
-      "name": "Joe Satriani - SP",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Show"
-    },
-    {
-      "id": 54217,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI054217.jpg",
-      "name": "Dado e Bonfá em Legião Urbana XXX Anos - Sábado",
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI054260.jpg",
+      "name": "60! Década de Arromba - DOC Musical",
       "city": "Rio de Janeiro",
       "state": "RJ",
-      "genre": "Show"
-    },
-    {
-      "id": 53882,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI053882.jpg",
-      "name": "Ney Matogrosso - Atento aos Sinais",
-      "city": "Salvador",
-      "state": "BA",
-      "genre": "Show"
-    },
-    {
-      "id": 54169,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI054169.jpg",
-      "name": "Improvável",
-      "city": "Campinas",
-      "state": "SP",
       "genre": "Teatro"
     },
     {
-      "id": 54436,
+      "id": 52831,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI054436.jpg",
-      "name": "Diogo Nogueira e Maria Rita",
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI052831.jpg",
+      "name": "Ana Gabriela Show - Fortaleza",
+      "city": "Fortaleza",
+      "state": "CE",
+      "genre": "Show"
+    },
+    {
+      "id": 54078,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI054078.jpg",
+      "name": "Cúmplices de Um Resgate - Uberlândia",
+      "city": "Uberlândia",
+      "state": "MG",
+      "genre": "Show"
+    },
+    {
+      "id": 54209,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI054209.jpg",
+      "name": "Diogo Nogueira",
+      "city": "Porto Alegre",
+      "state": "RS",
+      "genre": "Show"
+    },
+    {
+      "id": 54134,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI054134.jpg",
+      "name": "Concerto Pluro - Elomar e Camerata Caleidoscópio",
       "city": "Salvador",
       "state": "BA",
-      "genre": "Show"
+      "genre": "Clássicos"
     }
   ]
 }
