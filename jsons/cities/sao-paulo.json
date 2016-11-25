@@ -1,17 +1,17 @@
 {
-  "title": "São Paulo",
+  "title": "Acontece esse final de semana",
   "photo": "https://ingressorapido.github.io/images/cities/sao-paulo.png",
-  "description": "A Ingresso Rápido vai te ajudar a ficar por dentro de tudo o que há de melhor em São Paulo. Confira e divirta-se!",
+  "description": "Confira os descontos de black weekend para aproveitar os melhores espetáculos de São Paulo. Boa diversão!",
   "events": [
     {
-      "id": 53541,
+      "id": 52863,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI053541.jpg",
-      "name": "GOD",
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI052863.jpg",
+      "name": "Ana Carolina",
       "city": "São Paulo",
       "state": "SP",
-      "genre": "Teatro"
+      "genre": "Show"
     },
     {
       "id": 52755,
@@ -24,41 +24,41 @@
       "genre": "Especiais"
     },
     {
-      "id": 52863,
+      "id": 51682,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI052863.jpg",
-      "name": "Ana Carolina",
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI051862.jpg",
+      "name": "Antonio Fagundes em Vermelho",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Teatro"
+    },
+    {
+      "id": 54609,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI054609.jpg",
+      "name": "Dilma Ducheff Saudando a Mandioca - Márvio Lúcio",
+      "city": "Campinas",
+      "state": "SP",
+      "genre": "Teatro"
+    },
+    {
+      "id": 53749,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI053749.jpg",
+      "name": "Fabiano Cambota - Canto, Conto e Causo",
       "city": "São Paulo",
       "state": "SP",
       "genre": "Show"
     },
     {
-      "id": 53367,
+      "id": 50799,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI053367.jpg",
-      "name": "Natal Mágico (SP)",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Show"
-    },
-    {
-      "id": 54587,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI054587.jpg",
-      "name": "Fernando & Sorocaba",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Show"
-    },
-    {
-      "id": 54057,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI054057.jpg",
-      "name": "Forever Young",
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI050799.jpg",
+      "name": "My Fair Lady",
       "city": "São Paulo",
       "state": "SP",
       "genre": "Teatro"
