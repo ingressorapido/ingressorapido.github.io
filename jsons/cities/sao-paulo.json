@@ -1,27 +1,17 @@
 {
-  "title": "Acontece neste final de semana",
+  "title": "São Paulo",
   "photo": "https://ingressorapido.github.io/images/cities/sao-paulo.png",
-  "description": "Confira os descontos de black weekend para aproveitar os melhores espetáculos de São Paulo. Boa diversão!",
+  "description": "A Ingresso Rápido vai te ajudar a ficar por dentro de tudo o que há de melhor em São Paulo. Confira e divirta-se!",
   "events": [
     {
-      "id": 52863,
+      "id": 53738,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI052863.jpg",
-      "name": "Ana Carolina",
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI053738.jpg",
+      "name": "Garota VIP - SP",
       "city": "São Paulo",
       "state": "SP",
-      "genre": "Show"
-    },
-    {
-      "id": 52755,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI052755.jpg",
-      "name": "Experiência Alice - Exposição",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Especiais"
+      "genre": "Festas"
     },
     {
       "id": 51682,
@@ -34,31 +24,41 @@
       "genre": "Teatro"
     },
     {
-      "id": 54609,
+      "id": 52740,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI054609.jpg",
-      "name": "Dilma Ducheff Saudando a Mandioca - Márvio Lúcio",
-      "city": "Campinas",
-      "state": "SP",
-      "genre": "Teatro"
-    },
-    {
-      "id": 53794,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI053794.jpg",
-      "name": "Fabiano Cambota - Canto, Conto e Causo",
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI052740.jpg",
+      "name": "Burlesque - Paris 6 by Night",
       "city": "São Paulo",
       "state": "SP",
       "genre": "Show"
     },
     {
-      "id": 50799,
+      "id": 51682,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI050799.jpg",
-      "name": "My Fair Lady",
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI051682.jpg",
+      "name": "Antonio Fagundes em Vermelho",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Teatro"
+    },
+    {
+      "id": 53541,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI053541.jpg",
+      "name": "GOD",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Teatro"
+    },
+    {
+      "id": 53501,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI053501.jpg",
+      "name": "Rocky Horror Show",
       "city": "São Paulo",
       "state": "SP",
       "genre": "Teatro"
