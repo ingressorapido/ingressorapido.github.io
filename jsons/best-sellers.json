@@ -4,8 +4,8 @@
   "events": [
     {
       "id": 54436,
-      "id_bileto": 71,
-      "is_bileto": true,
+      "id_bileto": null,
+      "is_bileto": false,
       "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI054436.jpg",
       "name": "Diogo Nogueira e Maria Rita",
       "city": "Salvador",
