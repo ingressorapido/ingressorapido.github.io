@@ -14,44 +14,44 @@
       "genre": "Teatro"
     },
     {
-      "id": 53190,
+      "id": 52583,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=53190",
-      "name": "Joanna - Eletro - Acústico",
+      "image": "http://content.ingressorapido.com.br/event?id=52583",
+      "name": "Chris Cornell",
       "city": "Rio de Janeiro",
       "state": "RJ",
       "genre": "Show"
     },
     {
-      "id": 53139,
+      "id": 54638,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=53139",
-      "name": "Marcelo D2 & Sain",
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "genre": "Show"
-    },
-    {
-      "id": 49202,
-      "id_bileto": 88,
-      "is_bileto": true,
-      "image": "http://content.ingressorapido.com.br/event?id=49202",
-      "name": "João Gabriel à vontade",
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "genre": "Show"
-    },
-    {
-      "id": 53066,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "http://content.ingressorapido.com.br/event?id=53066",
-      "name": "Meu Passado Não Me Condena com Fernanda Souza (RJ)",
+      "image": "http://content.ingressorapido.com.br/event?id=54638",
+      "name": "Divas - O Musical",
       "city": "Rio de Janeiro",
       "state": "RJ",
       "genre": "Teatro"
+    },
+    {
+      "id": 52795,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=52795",
+      "name": "Garbage",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "genre": "Show"
+    },
+    {
+      "id": 51150,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "http://content.ingressorapido.com.br/event?id=51150",
+      "name": "Simple Plan",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "genre": "Show"
     }
   ]
 }
