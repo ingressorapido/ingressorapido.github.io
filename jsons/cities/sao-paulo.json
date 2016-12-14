@@ -34,14 +34,14 @@
       "genre": "Teatro"
     },
     {
-      "id": 53523,
+      "id": 51516,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI053523.jpg",
-      "name": "JIM",
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI051516.jpg",
+      "name": "BPC - Beatles Para Crianças",
       "city": "São Paulo",
       "state": "SP",
-      "genre": "Teatro"
+      "genre": "Show"
     },
      {
       "id": 53872,
@@ -55,11 +55,11 @@
     },
 
     {
-      "id": 50799,
+      "id": 53713,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI050799.jpg",
-      "name": "My Fair Lady",
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI053713.jpg",
+      "name": "Hermanoteu Na Terra de Godah",
       "city": "São Paulo",
       "state": "SP",
       "genre": "Teatro"
