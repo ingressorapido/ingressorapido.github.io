@@ -1,36 +1,16 @@
 {
-  "title": "Carnaval 2017!",
-  "description": "O Carnaval chegou! Confira os eventos que escolhemos para você! Boa diversão! ",
+  "title": "Ressaca de Caraval!",
+  "description": "O Carnaval ainda não acabou para a Ingresso Rápido! Confira os eventos que escolhemos para você! Boa diversão!",
   "events": [
     {
-      "id": 56072,
+      "id": 56272,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI056072.jpg",
-      "name": "24.02 THE WEEK RIO - MASTERBEAT",
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI056272.jpg",
+      "name": "Arena Safadão com Wesley Safadão e Anitta",
       "city": "Rio de Janeiro",
       "state": "RJ",
-      "genre": "Festas"
-    },
-    {
-      "id": 54343,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI054343.jpg",
-      "name": "The Art of Heineken",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Especiais"
-    },
-    {
-      "id": 53021,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI053021.jpg",
-      "name": "Municipal da Raça",
-      "city": "Florianópolis",
-      "state": "SC",
-      "genre": "Festas"
+      "genre": "Show"
     },
     {
       "id": 55472,
@@ -53,44 +33,24 @@
       "genre": "Especiais"
     },
     {
-      "id": 55968,
+      "id": 48256,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI055968.jpg",
-      "name": "Passaporte Carnaval Milk",
-      "city": "Florianópolis",
-      "state": "SC",
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI048256.jpg",
+      "name": "Chá da Alice",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
       "genre": "Festas"
     },
     {
-      "id": 52968,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI052968.jpg",
-      "name": "Eu Amo Baile Funk",
+      "id": null,
+      "id_bileto": 137,
+      "is_bileto": true,
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI137.jpg",
+      "name": "Melanina Carioca",
       "city": "Rio de Janeiro",
       "state": "RJ",
       "genre": "Show"
-    },
-    {
-      "id": 56009,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI056009.jpg",
-      "name": "Brasil Open 2017",
-      "city": "São Paulo",
-      "state": "SP",
-      "genre": "Especiais"
-    },
-    {
-      "id": 56097,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI056097.jpg",
-      "name": "CAMAROTE DIVERCIDADE 2017",
-      "city": "Salvador",
-      "state": "BA",
-      "genre": "Festas"
     }
   ]
 }
