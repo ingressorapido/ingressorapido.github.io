@@ -1,6 +1,6 @@
 {
-  "title": "Ressaca de Caraval!",
-  "description": "O Carnaval ainda não acabou para a Ingresso Rápido! Confira os eventos que escolhemos para você! Boa diversão!",
+  "title": "Bora para a próxima!?",
+  "description": "Já estamos preparados para a próxima e esses são os eventos que escolhemos para você! Bora nessa!?",
   "events": [
     {
       "id": 56272,
@@ -10,6 +10,26 @@
       "name": "Arena Safadão com Wesley Safadão e Anitta",
       "city": "Rio de Janeiro",
       "state": "RJ",
+      "genre": "Show"
+    },
+    {
+      "id": 56553,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI056553.jpg",
+      "name": "Disney on Ice - Festival Mágico no Gelo (POA 2017)",
+      "city": "Porto Alegre",
+      "state": "RS",
+      "genre": "Show"
+    },
+    {
+      "id": 56372,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI056372.jpg",
+      "name": "TCA 50",
+      "city": "Salvador",
+      "state": "BA",
       "genre": "Show"
     },
     {
@@ -23,6 +43,26 @@
       "genre": "Festas"
     },
     {
+      "id": 56359,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI056359.jpg",
+      "name": "Raça Negra",
+      "city": "Porto Alegre",
+      "state": "RS",
+      "genre": "Show"
+    },
+    {
+      "id": 54042,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI054042.jpg",
+      "name": "Coca-Cola FM Festival",
+      "city": "Florianópolis",
+      "state": "SC",
+      "genre": "Show"
+    },
+    {
       "id": 55358,
       "id_bileto": null,
       "is_bileto": false,
@@ -31,6 +71,16 @@
       "city": "Rio de Janeiro",
       "state": "RJ",
       "genre": "Especiais"
+    },
+    {
+      "id": 56445,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI056445.jpg",
+      "name": "Whindersson Nunes Proparoxitona",
+      "city": "Belo Horizonte",
+      "state": "MG",
+      "genre": "Teatro"
     },
     {
       "id": 48256,
@@ -43,14 +93,14 @@
       "genre": "Festas"
     },
     {
-      "id": null,
-      "id_bileto": 137,
-      "is_bileto": true,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI0137.jpg",
-      "name": "Melanina Carioca",
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "genre": "Show"
+      "id": 56019,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI056019.jpg",
+      "name": "Festival Folclórico de Parintins",
+      "city": "Parintins",
+      "state": "AM",
+      "genre": "Festas"
     }
   ]
 }
