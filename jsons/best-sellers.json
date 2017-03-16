@@ -1,53 +1,53 @@
 {
-  "title": "Próxima parada...",
-  "description": "Já estamos preparados para a próxima e esses são os eventos que escolhemos para você! Bora nessa!?",
+  "title": "Gigantes do Entretenimento!",
+  "description": "Esses são os eventos que escolhemos para você! Só os gigantes do entretenimento! Bora nessa!?",
   "events": [
     {
-      "id": 56272,
+      "id": 56019,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI056272.jpg",
-      "name": "Arena Safadão com Wesley Safadão e Anitta",
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "genre": "Show"
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI056019.jpg",
+      "name": "Festival Folclórico de Parintins 2017",
+      "city": "Parintins",
+      "state": "AM",
+      "genre": "Festas"
     },
     {
-      "id": 56553,
+      "id": 56538,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI056553.jpg",
-      "name": "Disney on Ice - Festival Mágico no Gelo (POA 2017)",
-      "city": "Porto Alegre",
-      "state": "RS",
-      "genre": "Show"
-    },
-    {
-      "id": 56372,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI056372.jpg",
-      "name": "TCA 50",
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI056538.jpg",
+      "name": "Gal Costa - Estratosférica",
       "city": "Salvador",
       "state": "BA",
       "genre": "Show"
     },
     {
-      "id": 55472,
+      "id": 56121,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI055472.jpg",
-      "name": "Camarote do King - Carnaval 2017",
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "genre": "Festas"
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI056121.jpg",
+      "name": "Carminho Canta Tom Jobim",
+      "city": "Belo Horizonte",
+      "state": "MG",
+      "genre": "Show"
     },
     {
-      "id": 56359,
+      "id": 56711,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI056359.jpg",
-      "name": "Raça Negra",
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI056711.jpg",
+      "name": "Tiago Iorc - Ao Vivo",
+      "city": "Belo Horizonte",
+      "state": "MG",
+      "genre": "Teatro"
+    },
+    {
+      "id": 55920,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI055920.jpg",
+      "name": "Ney Matogrosso - Atento aos Sinais",
       "city": "Porto Alegre",
       "state": "RS",
       "genre": "Show"
@@ -63,44 +63,24 @@
       "genre": "Show"
     },
     {
-      "id": 55358,
+      "id": 56165,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI055358.jpg",
-      "name": "CarnaUOL Sapucai 2017",
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "genre": "Especiais"
-    },
-    {
-      "id": 56445,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI056445.jpg",
-      "name": "Whindersson Nunes Proparoxitona",
-      "city": "Belo Horizonte",
-      "state": "MG",
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI056165.jpg",
+      "name": "Paulo Gustavo - Em On Line (NH)",
+      "city": "Novo Hamburgo",
+      "state": "RS",
       "genre": "Teatro"
     },
     {
-      "id": 48256,
+      "id": 56434,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI048256.jpg",
-      "name": "Chá da Alice",
-      "city": "Rio de Janeiro",
-      "state": "RJ",
-      "genre": "Festas"
-    },
-    {
-      "id": 56019,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI056019.jpg",
-      "name": "Festival Folclórico de Parintins",
-      "city": "Parintins",
-      "state": "AM",
-      "genre": "Festas"
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI056434.jpg",
+      "name": "Vozes do Brasil",
+      "city": "Salvador",
+      "state": "BA",
+      "genre": "Especiais"
     }
   ]
 }
