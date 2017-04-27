@@ -1,86 +1,46 @@
 {
-  "title": "Gigantes do Entretenimento!",
-  "description": "Esses são os eventos que escolhemos para você! Só os gigantes do entretenimento! Bora nessa!?",
+  "title": "São Paulo TRIP!",
+  "description": "Preparado para a viagem que vai fazer São Paulo tremer? Então corre e garanta seu ingresso!",
   "events": [
     {
-      "id": 56019,
+      "id": 57557,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI056019.jpg",
-      "name": "Festival Folclórico de Parintins 2017",
-      "city": "Parintins",
-      "state": "AM",
-      "genre": "Festas"
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI057557.jpg",
+      "name": "The Who + The Cult + Alter Bridge",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Especiais"
     },
     {
-      "id": 56787,
+      "id": 57558,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI056787.jpg",
-      "name": "Djavan - Turnê Vidas Pra Contar",
-      "city": "Salvador",
-      "state": "BA",
-      "genre": "Show"
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI057558.jpg",
+      "name": "Bon Jovi + The Kills",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Especiais"
     },
     {
-      "id": 56048,
+      "id": 57559,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI056048.jpg",
-      "name": "Zé Ramalho - Irati",
-      "city": "Irati",
-      "state": "PR",
-      "genre": "Show"
-    },
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI057559.jpg",
+      "name": "Aerosmith + Def Leppard",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Especiais"
+    }
     {
-      "id": 56711,
+      "id": 57562,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI056711.jpg",
-      "name": "Tiago Iorc - Ao Vivo",
-      "city": "Belo Horizonte",
-      "state": "MG",
-      "genre": "Teatro"
-    },
-    {
-      "id": 55920,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI055920.jpg",
-      "name": "Ney Matogrosso - Atento aos Sinais",
-      "city": "Porto Alegre",
-      "state": "RS",
-      "genre": "Show"
-    },
-    {
-      "id": 56077,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI056077.jpg",
-      "name": "Tirullipa - Não Sou O Cara, Mas Sou o Filho Dele",
-      "city": "Natal",
-      "state": "RN",
-      "genre": "Show"
-    },
-    {
-      "id": 56165,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI056165.jpg",
-      "name": "Paulo Gustavo - Em On Line (NH)",
-      "city": "Novo Hamburgo",
-      "state": "RS",
-      "genre": "Teatro"
-    },
-    {
-      "id": 55401,
-      "id_bileto": null,
-      "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI055401.jpg",
-      "name": "Frejat - Voz e Violão (PE)",
-      "city": "Recife",
-      "state": "PE",
-      "genre": "Show"
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI057562.jpg",
+      "name": "Guns N' Roses + Alice Cooper",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Especiais"
     }
   ]
 }
