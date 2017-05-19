@@ -1,6 +1,6 @@
 {
-  "title": "São Paulo TRIP!",
-  "description": "Em Setembro, São Paulo vai tremer e a trilha sonora será de arrepiar! Não fique de fora dessa! ",
+  "title": "Vem aí, SETEMBRO!",
+  "description": "Em Setembro, a Ingresso Rápido está internacional! Só showzaço! Não fique de fora dessa! ",
   "events": [
     {
       "id": 57557,
@@ -13,14 +13,24 @@
       "genre": "Especiais"
     },
     {
-      "id": 57558,
+      "id": 58039,
       "id_bileto": null,
       "is_bileto": false,
-      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI057558.jpg",
-      "name": "Bon Jovi + The Kills",
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI058039.jpg",
+      "name": "5 SOS",
       "city": "São Paulo",
       "state": "SP",
-      "genre": "Especiais"
+      "genre": "Show"
+    },
+    {
+      "id": 58041,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI058041.jpg",
+      "name": "Pet Shop Boys",
+      "city": "São Paulo",
+      "state": "SP",
+      "genre": "Show"
     },
     {
       "id": 57559,
@@ -31,6 +41,56 @@
       "city": "São Paulo",
       "state": "SP",
       "genre": "Especiais"
+    },
+    {
+      "id": 57640,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI057640.jpg",
+      "name": "Maroon 5",
+      "city": "Curitiba",
+      "state": "PR",
+      "genre": "Show"
+    },
+    {
+      "id": 57635,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI057635.jpg",
+      "name": "Aerosmith (BH)",
+      "city": "Belo Horizonte",
+      "state": "MG",
+      "genre": "Show"
+    },
+    {
+      "id": 57665,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI057665.jpg",
+      "name": "Bon Jovi (POA)",
+      "city": "Porto Alegre",
+      "state": "RS",
+      "genre": "Show"
+    },
+    {
+      "id": 58019,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI058019.jpg",
+      "name": "The Who + Def Leppard (POA)",
+      "city": "Porto Alegre",
+      "state": "RS",
+      "genre": "Show"
+    },
+    {
+      "id": 57994,
+      "id_bileto": null,
+      "is_bileto": false,
+      "image": "https://www.ingressorapido.com.br/ImagensSistema/Eventos/eI057994.jpg",
+      "name": "Aerosmith (CWB)",
+      "city": "Curitiba",
+      "state": "PR",
+      "genre": "Show"
     },
     {
       "id": 57562,
